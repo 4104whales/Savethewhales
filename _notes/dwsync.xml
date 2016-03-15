@@ -17,7 +17,7 @@
 <file name="store.php" server="D:/wamp/www/whales/" local="131012802258092792" remote="131012802250000000" Dst="1" />
 <file name="support.php" server="D:/wamp/www/whales/" local="131012802397837833" remote="131012802390000000" Dst="1" />
 <file name="whales.php" server="D:/wamp/www/whales/" local="131012802489884303" remote="131012802480000000" Dst="1" />
-<file name="endangered.php" server="D:/wamp64/www/whales/" local="131012800632445892" remote="131012800630000000" Dst="1" />
+<file name="endangered.php" server="D:/wamp64/www/whales/" local="131012800630000000" remote="131012800630000000" Dst="2" />
 <file name="page-index.php" server="C:/wamp/www/whales/" local="131012801540000000" remote="131012801540000000" Dst="1" />
 <file name="about.php" server="C:/wamp/www/whales/" local="131012792980000000" remote="131012792980000000" Dst="1" />
 <file name="action.php" server="C:/wamp/www/whales/" local="131012799930000000" remote="131012799930000000" Dst="1" />
@@ -35,4 +35,6 @@
 <file name="store.php" server="C:/wamp/www/whales/" local="131012802250000000" remote="131012802250000000" Dst="1" />
 <file name="support.php" server="C:/wamp/www/whales/" local="131012802390000000" remote="131012802390000000" Dst="1" />
 <file name="whales.php" server="C:/wamp/www/whales/" local="131012802480000000" remote="131012802480000000" Dst="1" />
+<file name="petitions.php" server="D:/wamp64/www/whales/" local="131012801670000000" remote="131012801670000000" Dst="2" />
+<file name="page-index.php" server="D:/wamp64/www/whales/" local="131024882813186598" remote="131024882810000000" Dst="2" />
 </dwsync>

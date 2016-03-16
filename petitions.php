@@ -4,7 +4,7 @@
 <title>Petitions| Save the Whales</title>
 </head>
 
-<body style="padding-top: 70px">
+<body>
 
 <div class="container-fluid">
 	<?php

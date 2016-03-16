@@ -1,51 +1,77 @@
 <?php
 	include "includes/head.php";
 ?>
-<title>Founders & Staff | Save the Whales</title>
+<title>Our Staff | Save the Whales</title>
 </head>
 
-<body style="padding-top: 70px">
+<body>
 
-<div class="container-fluid">
-	<?php
-		include "includes/header.php";
-    ?>
-  
-  <div class="row">
-    <section class="col-xs-12">
-          <h2>
-              Subscribe to newletter
-          </h2>
-          <div>
-          </div>
+  <div class="container-fluid">
+      <?php
+          include "includes/header.php";
+      ?>
+    
+    <div class="row">
+      <section class="col-xs-4 column-center">
+          <h1>
+              Our Staff
+          </h1>
       </section>
+    </div>
+    <div class="row">
+      <section class="col-xs-4 staff-img">
+          <img src="images/Carousel_Placeholder.png" alt="">
+      </section>
+      <section class="col-xs-8 staff-info">
+          <h2 class="staff-name">
+              Person name
+          </h2>
+          <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. 
+          </p>
+      </section>
+    </div>
+    <div class="row">
+      <section class="col-xs-4 staff-img">
+          <img src="images/Carousel_Placeholder.png" alt="">
+      </section>
+      <section class="col-xs-8 staff-info">
+          <h2 class="staff-name">
+              Person name
+          </h2>
+          <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. 
+          </p>
+      </section>
+    </div>
+    <div class="row">
+      <section class="col-xs-4 staff-img">
+          <img src="images/Carousel_Placeholder.png" alt="">
+      </section>
+      <section class="col-xs-8 staff-info">
+          <h2 class="staff-name">
+              Person name
+          </h2>
+          <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. 
+          </p>
+      </section>
+    </div>
+    <div class="row">
+      <section class="col-xs-4 staff-img">
+          <img src="images/Carousel_Placeholder.png" alt="">
+      </section>
+      <section class="col-xs-8 staff-info">
+          <h2 class="staff-name">
+              Person name
+          </h2>
+          <p>
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. 
+          </p>
+      </section>
+    </div>
   </div>
-  <div class="row">
-    <section class="col-xs-4 new_stories">
-        <h2>
-            Learn
-        </h2>
-    </section>
-    <section class="col-xs-4 new_stories">
-        <h2>
-            Teach
-        </h2>
-    </section>
-    <section class="col-xs-4 new_stories">
-        <h2>
-            Volunteer
-        </h2>
-    </section>
-  </div>
-  <div class="row">
-    <section class="col-xs-12 new_stories">
-        <h2>
-            Because we care
-        </h2>
-    </section>
-  </div>
-  </div>
-  
+    
   <?php
       include "includes/footer.php";
   ?>

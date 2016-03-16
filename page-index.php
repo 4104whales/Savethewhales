@@ -12,7 +12,7 @@
     ?>
     <div class="row">
         <h1 class="tag-line">
-            Save the Whales is a  501(c)(3) Nonprofit Educational Organization that educates kids and adults about marine life and how to preserve their way of living.
+            Save the Whales is a 501(c)(3) Nonprofit Educational Organization that educates kids and adults about marine life and how to preserve their way of living.
         </h1>
     </div>
     <div class="row">
@@ -63,7 +63,7 @@
                Enter your email and click the Subscribe button below to learn more about Save the Whales programs, petitions, fun facts and more! 
           </h2>
           <div>
-          	<form>
+          	<form class="subscribe">
           	  <div class="input-group">
           	    <input type="email" class="form-control" placeholder="Email" >
        	      </div>

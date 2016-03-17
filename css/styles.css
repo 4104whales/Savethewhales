@@ -104,6 +104,64 @@ h3{
 }
 /* End Staff Styles */
 
+/* Start contact Styles*/
+.contact-info{
+	list-style: none;
+}
+.contact-info li{
+	font-size: 16px;
+	line-height: 38px;
+	margin: 30px 0;
+}
+#contact-email:before{
+	content: "";
+	background: url(../images/icons/email.png) no-repeat;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+#contact-phone:before{
+	content: "";
+	background: url(../images/icons/phone.png) no-repeat;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+#contact-office:before{
+	content: "";
+	background: url(../images/icons/location.png) no-repeat;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+#contact-mailing:before{
+	content: "";
+	background: url(../images/icons/mail.png) no-repeat;
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+.contact-map img{
+	max-width: 900px;
+	float: right;
+	margin: 30px 0;
+	border: solid lightgray 2px;
+}
+.form-center{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	padding: 30px 10px;
+}
+.form-center button{
+	float: right;
+	padding: 15px 30px;
+}
+/*End contact Styles*/
 
 /* Start Footer Styles*/
 .footer{

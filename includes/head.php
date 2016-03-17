@@ -23,6 +23,7 @@
 <meta name="msapplication-TileImage" content="/whales/images/favicon/ms-icon-144x144.png">
 <meta name="theme-color" content="#ffffff">
 
+<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/pure-min.css">
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
 <link href="css/styles.css" rel="stylesheet" type="text/css">
 

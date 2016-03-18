@@ -211,6 +211,27 @@ h3{
 }
 /*End Flyer Styles*/
 
+/* Start Petitions Styles*/
+.petitions-video{
+}
+.petitions-video video{
+	float: left;
+}
+.petitions-video h3{
+	float: left;
+	margin-top: 0;
+}
+.petitions-video button{
+	float: left;
+	margin-left: 35px;
+}
+.petitions-video p{
+	float: left;
+	clear: both;
+	margin-top: 20px;
+}
+/*End Petitions Styles*/
+
 /* Start Footer Styles*/
 .footer{
 	height: 60px;

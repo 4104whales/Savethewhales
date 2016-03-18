@@ -21,29 +21,34 @@
                 </h2>
             </section>
         </div>
-        <div class="row">
-          <section class="col-md-6 new_stories">
+        
+        <div class="row petitions-video">
+          <section class="col-md-6">
+              <video width="320" height="240" controls>
+                <source src="movie.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+              Your browser does not support the video tag.
+              </video>  
               <h3>
                   Petition Name
               </h3>
-              <audio controls>
-                  <source src="audio/test.ogg" type="audio/ogg">
-                  <source src="audio/test.mp3" type="audio/mpeg">
-                  Your browser does not support the audio element.
-               </audio> 
-               <button type="button" class="pure-button pure-button-primary">Download Sheet Music PDF</button>
-               <button type="button" class="pure-button pure-button-primary">Download Song</button>
+              <button type="button" class="pure-button pure-button-primary">View Full Petiton</button>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.  
               </p>
           </section>
-          <section class="col-md-6 new_stories">
-              <h2>
-                  Lorem ipsum
-              </h2>
-              <img src="images/Carousel_Placeholder.png" alt="">
+          <section class="col-md-6">
+              <video width="320" height="240" controls>
+                <source src="movie.mp4" type="video/mp4">
+                <source src="movie.ogg" type="video/ogg">
+              Your browser does not support the video tag.
+              </video>  
+              <h3>
+                  Petition Name
+              </h3>
+              <button type="button" class="pure-button pure-button-primary">View Full Petiton</button>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.  
               </p>
           </section>
         </div>

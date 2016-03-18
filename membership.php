@@ -12,10 +12,13 @@
         ?>
       	
         <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-md-4 page-title">
                 <h1>
-                     Help By Becoming A Member Of Save The Whales One Person Can Make A Difference! 
+                     Help By Becoming A Member Of Save The Whales 
                 </h1>
+                <h2>
+                     One Person Can Make A Difference! 
+                </h2>
                 <img src="images/Carousel_Placeholder.png" alt="">
             </section>
         </div>

@@ -3,7 +3,6 @@
 <file name="action.php" server="D:/wamp/www/whales/" local="131012799938739985" remote="131012799930000000" Dst="1" />
 <file name="captivity.php" server="D:/wamp/www/whales/" local="131012800428046366" remote="131012800420000000" Dst="1" />
 <file name="endangered.php" server="D:/wamp/www/whales/" local="131012800632445892" remote="131012800630000000" Dst="1" />
-<file name="involvement.php" server="D:/wamp/www/whales/" local="131012800835621377" remote="131012800830000000" Dst="1" />
 <file name="membership.php" server="D:/wamp/www/whales/" local="131012800935782285" remote="131012800930000000" Dst="1" />
 <file name="flyers.php" server="D:/wamp/www/whales/" local="131012801041533247" remote="131012801040000000" Dst="1" />
 <file name="mission.php" server="D:/wamp/www/whales/" local="131012801265390295" remote="131012801260000000" Dst="1" />
@@ -22,7 +21,6 @@
 <file name="captivity.php" server="C:/wamp/www/whales/" local="131027808476103562" remote="131027808470000000" Dst="2" />
 <file name="endangered.php" server="C:/wamp/www/whales/" local="131027549650000000" remote="131027549650000000" Dst="2" />
 <file name="flyers.php" server="C:/wamp/www/whales/" local="131027522800000000" remote="131027522800000000" Dst="2" />
-<file name="involvement.php" server="C:/wamp/www/whales/" local="131027468410000000" remote="131027468410000000" Dst="2" />
 <file name="membership.php" server="C:/wamp/www/whales/" local="131027468410000000" remote="131027468410000000" Dst="2" />
 <file name="mission.php" server="C:/wamp/www/whales/" local="131027468410000000" remote="131027468410000000" Dst="2" />
 <file name="outreach.php" server="C:/wamp/www/whales/" local="131027466190000000" remote="131027466190000000" Dst="2" />
@@ -37,12 +35,11 @@
 <file name="page-index.php" server="D:/wamp64/www/whales/" local="131027468419730702" remote="131027468410000000" Dst="2" />
 <file name="outreach.php" server="D:/wamp64/www/whales/" local="131027466193128589" remote="131027466190000000" Dst="2" />
 <file name="staff.php" server="D:/wamp64/www/whales/" local="131027468419955917" remote="131027468410000000" Dst="2" />
-<file name="founder.php" server="D:/wamp64/www/whales/" local="131027875540873538" remote="131027875540000000" Dst="2" />
+<file name="founder.php" server="D:/wamp64/www/whales/" local="131027877260929825" remote="131027877260000000" Dst="2" />
 <file name="action.php" server="D:/wamp64/www/whales/" local="131027871183389162" remote="131027871180000000" Dst="2" />
 <file name="captivity.php" server="D:/wamp64/www/whales/" local="131027808470000000" remote="131027808470000000" Dst="2" />
 <file name="flyers.php" server="D:/wamp64/www/whales/" local="131027869779133033" remote="131027869770000000" Dst="2" />
-<file name="involvement.php" server="D:/wamp64/www/whales/" local="131027468419510492" remote="131027468410000000" Dst="2" />
-<file name="membership.php" server="D:/wamp64/www/whales/" local="131027468419560557" remote="131027468410000000" Dst="2" />
+<file name="membership.php" server="D:/wamp64/www/whales/" local="131027877610077844" remote="131027877610000000" Dst="2" />
 <file name="mission.php" server="D:/wamp64/www/whales/" local="131027468419625601" remote="131027468410000000" Dst="2" />
 <file name="resources.php" server="D:/wamp64/www/whales/" local="131027468419855822" remote="131027468410000000" Dst="2" />
 <file name="sing.php" server="D:/wamp64/www/whales/" local="131027502357071409" remote="131027502350000000" Dst="2" />

@@ -209,6 +209,9 @@ h3{
 	float: left;
 	clear: left;
 }
+.flyer-info ol{
+	float: left;
+}
 /*End Flyer Styles*/
 
 /* Start Petitions Styles*/

@@ -49,28 +49,24 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-xs-4 column-center">
-                <div>
-                  <form class="subscribe">
-
-                  <div class="input-group">
-                      <div class="btn-group">
-                        <button type="button" class="btn btn-default">Default Button</button>
-                        <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="caret"></span><span class="sr-only">Toggle Dropdown</span></button>
-                        <ul class="dropdown-menu">
-                          <li role="presentation" class="disabled"><a href="#">Disabled Link</a></li>
-                          <li role="presentation" class="dropdown-header">Dropdown header 1</li>
-                          <li role="presentation"><a href="#">First Link</a></li>
-                        </ul>
+          <section class="col-xs-4 form-center">
+              <form class="pure-form pure-form-stacked">
+                  <fieldset>
+                      <div class="pure-u-1 pure-u-md-1-3">
+                          <select id="membership-type" class="pure-input-1">
+                              <option disabled selected>Membership Type</option>
+                              <option>Child</option>
+                              <option>Regular</option>
+                              <option>Student/Senior</option>
+                          </select>
                       </div>
-                      <input type="text" class="form-control" placeholder="Full Name" >
-                      <input type="email" class="form-control" placeholder="Email" >
-                      <input type="text" class="form-control" placeholder="Address" >
-                    </div>
-                    <button type="button" class="btn btn-default">Join</button>
-                  </form>
-                </div>
-            </section>
+                      <input class="pure-input-1" id="membership-name" type="text" placeholder="Full Name"> 
+                      <input class="pure-input-1" id="membership-email" type="email" placeholder="Email">
+                      <input class="pure-input-1" id="membership-address" type="text" placeholder="Address">
+                      <button type="submit" class="pure-button pure-button-primary">Join</button>
+                  </fieldset>
+              </form>
+          </section>
         </div>
     
     </div>

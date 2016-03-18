@@ -55,6 +55,18 @@ h3{
 	padding: 10px;
 	margin: 0;
 }
+.page-mid-title{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 30px;
+}
+.page-mid-title h1{
+	padding: 0;
+	margin: 0;
+	margin-top: 20px;
+}
 /* End All Styles */
 
 
@@ -273,6 +285,28 @@ h3{
 	margin-top: 20px;
 }
 /* End Petitions Styles*/
+
+/* Start Mission Styles*/
+.mission img{
+	max-width: 600px;
+	width: 100%;
+}
+.mission-img img{
+	max-width: 400px;
+	width: 100%;
+	float: right;
+	margin-bottom: 30px;
+}
+/* End Mission Styles*/
+
+/* Start Outreach Styles*/
+.outreach img{
+	max-width: 600px;
+	width: 100%;
+	float: right;
+	margin-bottom: 30px;
+}
+/* End Outreach Styles*/
 
 /* Start Store Styles*/
 .store-items{

@@ -12,7 +12,7 @@
         ?>
         
         <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-md-4 page-title">
               <h1>
                   Our Mission
               </h1>
@@ -23,23 +23,23 @@
         </div>
         
         <div class="row">
-          <section class="col-md-6">
+          <section class="col-md-offset-2 col-md-4 mission">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="col-md-4 mission">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
         </div>
         
         <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-md-4 page-mid-title">
               <h1>
                   Past Involvement
               </h1>
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 staff-img">
+          <section class="col-md-4 mission-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
           <section class="col-md-8 staff-info">
@@ -52,7 +52,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 staff-img">
+          <section class="col-md-4 mission-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
           <section class="col-md-8 staff-info">
@@ -65,7 +65,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 staff-img">
+          <section class="col-md-4 mission-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
           <section class="col-md-8 staff-info">
@@ -78,7 +78,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 staff-img">
+          <section class="col-md-4 mission-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
           <section class="col-md-8 staff-info">

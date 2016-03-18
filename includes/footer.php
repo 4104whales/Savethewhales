@@ -34,7 +34,7 @@
           </div>
           <div class="row">
               <section class="col-xs-4 copyright">
-                   Copyright © 1994-2016 • Save The Whales 
+                   Copyright © 1994-2016 | Save The Whales 
               </section>
           </div>
       </div>

@@ -12,17 +12,17 @@
       ?>
     
     <div class="row">
-      <section class="col-xs-4 column-center">
+      <section class="col-md-4 column-center">
           <h1>
               Our Staff
           </h1>
       </section>
     </div>
     <div class="row">
-      <section class="col-xs-4 staff-img">
+      <section class="col-md-4 staff-img">
           <img src="images/Carousel_Placeholder.png" alt="">
       </section>
-      <section class="col-xs-8 staff-info">
+      <section class="col-md-8 staff-info">
           <h2 class="staff-name">
               Person name
           </h2>
@@ -32,10 +32,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-xs-4 staff-img">
+      <section class="col-md-4 staff-img">
           <img src="images/Carousel_Placeholder.png" alt="">
       </section>
-      <section class="col-xs-8 staff-info">
+      <section class="col-md-8 staff-info">
           <h2 class="staff-name">
               Person name
           </h2>
@@ -45,10 +45,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-xs-4 staff-img">
+      <section class="col-md-4 staff-img">
           <img src="images/Carousel_Placeholder.png" alt="">
       </section>
-      <section class="col-xs-8 staff-info">
+      <section class="col-md-8 staff-info">
           <h2 class="staff-name">
               Person name
           </h2>
@@ -58,10 +58,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-xs-4 staff-img">
+      <section class="col-md-4 staff-img">
           <img src="images/Carousel_Placeholder.png" alt="">
       </section>
-      <section class="col-xs-8 staff-info">
+      <section class="col-md-8 staff-info">
           <h2 class="staff-name">
               Person name
           </h2>

@@ -12,7 +12,7 @@
     ?>
   
   <div class="row">
-    <section class="col-xs-12">
+    <section class="col-md-12">
           <h2>
               Subscribe to newletter
           </h2>
@@ -21,24 +21,24 @@
       </section>
   </div>
   <div class="row">
-    <section class="col-xs-4 new_stories">
+    <section class="col-md-4 new_stories">
         <h2>
             Learn
         </h2>
     </section>
-    <section class="col-xs-4 new_stories">
+    <section class="col-md-4 new_stories">
         <h2>
             Teach
         </h2>
     </section>
-    <section class="col-xs-4 new_stories">
+    <section class="col-md-4 new_stories">
         <h2>
             Volunteer
         </h2>
     </section>
   </div>
   <div class="row">
-    <section class="col-xs-12 new_stories">
+    <section class="col-md-12 new_stories">
         <h2>
             Because we care
         </h2>

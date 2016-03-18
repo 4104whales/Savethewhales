@@ -12,7 +12,7 @@
         ?>
         
         <div class="row">
-          <section class="col-xs-4 column-center">
+          <section class="col-md-4 column-center">
               <h1>
                   Our Mission
               </h1>
@@ -23,26 +23,26 @@
         </div>
         
         <div class="row">
-          <section class="col-xs-6">
+          <section class="col-md-6">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-xs-6">
+          <section class="col-md-6">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
         </div>
         
         <div class="row">
-          <section class="col-xs-4 column-center">
+          <section class="col-md-4 column-center">
               <h1>
                   Past Involvement
               </h1>
           </section>
         </div>
         <div class="row">
-          <section class="col-xs-4 staff-img">
+          <section class="col-md-4 staff-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-xs-8 staff-info">
+          <section class="col-md-8 staff-info">
               <h2 class="staff-name">
                   Heading
               </h2>
@@ -52,10 +52,10 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-xs-4 staff-img">
+          <section class="col-md-4 staff-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-xs-8 staff-info">
+          <section class="col-md-8 staff-info">
               <h2 class="staff-name">
                    Heading
               </h2>
@@ -65,10 +65,10 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-xs-4 staff-img">
+          <section class="col-md-4 staff-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-xs-8 staff-info">
+          <section class="col-md-8 staff-info">
               <h2 class="staff-name">
                    Heading
               </h2>
@@ -78,10 +78,10 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-xs-4 staff-img">
+          <section class="col-md-4 staff-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-xs-8 staff-info">
+          <section class="col-md-8 staff-info">
               <h2 class="staff-name">
                    Heading
               </h2>

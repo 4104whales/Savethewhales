@@ -2,7 +2,7 @@
       <div class="container">
           <div class="row">
               <section class="col-xs-4 copyright">
-<!--                  <ul class="footer-links">
+                  <ul class="footer-links">
                       <li>
                           <a href="founder.php">
                               About the Founder
@@ -18,7 +18,7 @@
                                Contact us
                           </a>
                       </li>
-                  </ul>-->
+                  </ul>
                   <div class="social-icons">
                   	<a href="http://www.facebook.com/pages/Save-The-Whales/257469333794" target="_blank">
                       <img src="images/icons/facebook.png" alt="facebook icon">

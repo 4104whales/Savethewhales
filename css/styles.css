@@ -38,6 +38,7 @@ h3{
 }
 .column-center img, .column-center input{
 	max-width: 300px;
+	width: 100%;
 }
 .page-title{
 	margin: 0 auto;
@@ -95,6 +96,7 @@ h3{
 }
 .new_stories img{
 	max-width: 300px;
+	width: 100%;
 	margin: 0 auto;
 	display: block;
 }
@@ -116,6 +118,7 @@ h3{
 }
 .action-items img{
 	max-width: 400px;
+	width: 100%;
 	margin: 0 auto;
 	display: block;
 }
@@ -127,6 +130,7 @@ h3{
 /* Start Staff Styles */
 .staff-img img{
 	max-width: 300px;
+	width: 100%;
 	float: right;
 	margin-bottom: 30px;
 }
@@ -192,6 +196,7 @@ h3{
 	max-width: 900px;
 	float: right;
 	margin: 30px 0;
+	width: 100%;
 	border: solid lightgray 2px;
 }
 .form-center{
@@ -223,6 +228,7 @@ h3{
 }
 .flyer-info img{
 	max-width: 300px;
+	width: 100%;
 }
 .flyer-info h3{
 	padding: 0px;
@@ -273,6 +279,7 @@ h3{
 }
 .store-items img{
 	max-width: 600px;
+	width: 100%;
 }
 .store-items h3{
 	padding: 0;

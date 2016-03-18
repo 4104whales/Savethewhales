@@ -19,7 +19,7 @@
 <file name="endangered.php" server="D:/wamp64/www/whales/" local="131025724569267800" remote="131025724560000000" Dst="2" />
 <file name="page-index.php" server="C:/wamp/www/whales/" local="131027468410000000" remote="131027468410000000" Dst="2" />
 <file name="action.php" server="C:/wamp/www/whales/" local="131027798014683738" remote="131027798010000000" Dst="2" />
-<file name="captivity.php" server="C:/wamp/www/whales/" local="131027803574901920" remote="131027803570000000" Dst="2" />
+<file name="captivity.php" server="C:/wamp/www/whales/" local="131027808476103562" remote="131027808470000000" Dst="2" />
 <file name="endangered.php" server="C:/wamp/www/whales/" local="131027549650000000" remote="131027549650000000" Dst="2" />
 <file name="flyers.php" server="C:/wamp/www/whales/" local="131027522800000000" remote="131027522800000000" Dst="2" />
 <file name="involvement.php" server="C:/wamp/www/whales/" local="131027468410000000" remote="131027468410000000" Dst="2" />
@@ -54,6 +54,6 @@
 <file name="favicon.png" server="C:/wamp/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
 <file name="favicon.png" server="D:/wamp64/www/whales/" local="131026455200000000" remote="131026455200000000" Dst="2" />
 <file name="contact.php" server="D:/wamp64/www/whales/" local="131026563462558023" remote="131026563460000000" Dst="2" />
-<file name="contact.php" server="C:/wamp/www/whales/" local="131027468410000000" remote="131027468410000000" Dst="2" />
+<file name="contact.php" server="C:/wamp/www/whales/" local="131027810130182152" remote="131027810130000000" Dst="2" />
 <file name=".gitignore" server="C:/wamp/www/whales/" local="131027502730000000" remote="131027502730000000" Dst="2" />
 </dwsync>

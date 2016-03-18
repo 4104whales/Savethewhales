@@ -11,7 +11,7 @@
 		include "includes/header.php";
     ?>
     <div class="row">
-        <h1 class="tag-line column-center">
+        <h1 class="page-title">
            Contact Us
         </h1>
     </div>
@@ -23,7 +23,7 @@
                   <input class="pure-input-1" id="contact-name" type="text" placeholder="Name"> 
                   <input class="pure-input-1" id="contact-email" type="email" placeholder="Email">
                   <textarea class="pure-input-1" id="contact-message" placeholder="Your Message"></textarea>
-                  <button type="submit" class="pure-button pure-button-primary">Sign in</button>
+                  <button type="submit" class="pure-button pure-button-primary">Submit</button>
               </fieldset>
           </form>
       </section>
@@ -32,7 +32,7 @@
     <div class="row">
       <section class="col-md-6 staff-info">
           <h2 class="staff-name">
-              Other ways to contact the Save the Whales Organization are:
+              Other ways to contact the Save the Whales
           </h2>
       </section>
     </div>

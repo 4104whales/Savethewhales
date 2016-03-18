@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <dwsync>
-<file name="facebook.png" server="D:/wamp64/www/whales/" local="131026708980000000" remote="131026708980000000" Dst="2" />
-<file name="instagram.png" server="D:/wamp64/www/whales/" local="131026708980000000" remote="131026708980000000" Dst="2" />
-<file name="twitter.png" server="D:/wamp64/www/whales/" local="131026708980000000" remote="131026708980000000" Dst="2" />
+<file name="facebook.png" server="D:/wamp64/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
+<file name="instagram.png" server="D:/wamp64/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
+<file name="twitter.png" server="D:/wamp64/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
 <file name="email.png" server="C:/wamp/www/whales/" local="131027084240000000" remote="131027084240000000" Dst="2" />
 <file name="facebook.png" server="C:/wamp/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
 <file name="instagram.png" server="C:/wamp/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
@@ -17,4 +17,15 @@
 <file name="mail.psd" server="C:/wamp/www/whales/" local="131027076081973320" remote="131027076080000000" Dst="2" />
 <file name="phone.psd" server="C:/wamp/www/whales/" local="131027076087692912" remote="131027076080000000" Dst="2" />
 <file name="twitter.psd" server="C:/wamp/www/whales/" local="131026659790000000" remote="131026659790000000" Dst="2" />
+<file name="email.png" server="D:/wamp64/www/whales/" local="131027084240000000" remote="131027084240000000" Dst="2" />
+<file name="email.psd" server="D:/wamp64/www/whales/" local="131027076080000000" remote="131027076080000000" Dst="2" />
+<file name="facebook.psd" server="D:/wamp64/www/whales/" local="131026659792823309" remote="131026659790000000" Dst="2" />
+<file name="instagram.psd" server="D:/wamp64/www/whales/" local="131026659792873355" remote="131026659790000000" Dst="2" />
+<file name="location.png" server="D:/wamp64/www/whales/" local="131027084240000000" remote="131027084240000000" Dst="2" />
+<file name="location.psd" server="D:/wamp64/www/whales/" local="131027076080000000" remote="131027076080000000" Dst="2" />
+<file name="mail.png" server="D:/wamp64/www/whales/" local="131027084240000000" remote="131027084240000000" Dst="2" />
+<file name="mail.psd" server="D:/wamp64/www/whales/" local="131027076080000000" remote="131027076080000000" Dst="2" />
+<file name="phone.png" server="D:/wamp64/www/whales/" local="131027084240000000" remote="131027084240000000" Dst="2" />
+<file name="phone.psd" server="D:/wamp64/www/whales/" local="131027076080000000" remote="131027076080000000" Dst="2" />
+<file name="twitter.psd" server="D:/wamp64/www/whales/" local="131026659792988467" remote="131026659790000000" Dst="2" />
 </dwsync>

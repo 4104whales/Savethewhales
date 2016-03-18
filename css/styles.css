@@ -232,6 +232,12 @@ h3{
 .sing-audio button{
 	margin: 10px 0;
 }
+.sing-img img{
+	max-width: 300px;
+	width: 100%;
+	float: right;
+	margin-bottom: 30px;
+}
 /*End Sing Styles*/
 
 /* Start Flyer Styles*/

@@ -12,7 +12,7 @@
       ?>
       
       <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-md-4 page-title">
               <h1>
                   Sing to Save the Whales
               </h1>
@@ -20,7 +20,7 @@
       </div>
       
       <div class="row">
-          <section class="col-md-4 staff-img">
+          <section class="col-md-4 sing-img">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
           <section class="col-md-6 staff-info">

@@ -17,7 +17,7 @@
     </div>
   
   <div class="row">
-    <section class="col-xs-4 form-center">
+    <section class="col-md-4 form-center">
           <form class="pure-form pure-form-stacked">
               <fieldset>
                   <input class="pure-input-1" id="contact-name" type="text" placeholder="Name"> 
@@ -30,14 +30,14 @@
   </div>
 
     <div class="row">
-      <section class="col-xs-6 staff-info">
+      <section class="col-md-6 staff-info">
           <h2 class="staff-name">
               Other ways to contact the Save the Whales Organization are:
           </h2>
       </section>
     </div>
     <div class="row">
-      <section class="col-xs-4 staff-info">
+      <section class="col-md-4 staff-info">
           <ul class="contact-info">
             <li id="contact-phone">
             	(831) 899-9957
@@ -54,7 +54,7 @@
 
           </ul>
       </section>
-      <section class="col-xs-8 contact-map">
+      <section class="col-md-8 contact-map">
           <img src="images/map-placeholder.png" alt="">
       </section>
     </div>

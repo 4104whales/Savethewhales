@@ -20,10 +20,10 @@
       </div>
       
       <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+          <section class="col-md-offset-1 col-md-3">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="col-md-7">
               <h3>
               	Heading
               </h3>
@@ -34,10 +34,10 @@
       </div>
       
       <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+          <section class="col-md-offset-1 col-md-3">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="col-md-7">
               <h3>
               	Heading
               </h3>
@@ -48,10 +48,10 @@
       </div>
       
       <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+          <section class="col-md-offset-1 col-md-3">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="col-md-7">
               <h3>
               	Heading
               </h3>

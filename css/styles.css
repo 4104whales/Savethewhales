@@ -30,7 +30,6 @@ h3{
 	margin: 0 auto;
 	width: 100%;
 	text-align: center;
-	padding: 30px 10px;
 }
 .column-center p{
 	text-align: left;
@@ -39,6 +38,21 @@ h3{
 }
 .column-center img, .column-center input{
 	max-width: 300px;
+}
+.page-title{
+	margin: 0 auto;
+	width: 100%;
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+.page-title h1{
+	padding: 0;
+	margin: 0;
+}
+.page-title h2{
+	padding: 10px;
+	margin: 0;
 }
 /* End All Styles */
 
@@ -90,6 +104,25 @@ h3{
 }
 /* End Home Styles */
 
+/* Start Action Styles */
+.action-items{
+	margin-bottom: 20px;
+}
+.action-items h3{
+	padding: 0;
+	margin-top: 0;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.action-items img{
+	max-width: 400px;
+	margin: 0 auto;
+	display: block;
+}
+.action-items p{
+	margin: 15px
+}
+/* End Action Styles */
 
 /* Start Staff Styles */
 .staff-img img{

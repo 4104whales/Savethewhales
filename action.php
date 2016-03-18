@@ -12,96 +12,71 @@
         ?>
     	
         <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-md-4 page-title">
                 <h1>
                      Take Action 
                 </h1>
-                <h3>
+                <h2>
                      Below is a list of what you can do to help marine animals and their habitats. 
-                </h3>
+                </h2>
             </section>
         </div>
-        <div class="row">
-          <section class="col-md-4 new_stories">
-              <h2>
+        <div class="row action-items">
+          <section class="col-md-6">
+              <h3>
                   DON'T release balloons.
-              </h2>
+              </h3>
               <img src="images/Carousel_Placeholder.png" alt="">
               <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
-              <h2>
+          <section class="col-md-6">
+              <h3>
                   Lorem ipsum
-              </h2>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
-              </p>
-          </section>
-          <section class="col-md-4 new_stories">
-              <h2>
-                  Lorem ipsum
-              </h2>
+              </h3>
               <img src="images/Carousel_Placeholder.png" alt="">
               <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
         </div>
-        <div class="row">
-          <section class="col-md-4 new_stories">
-              <h2>
+        
+        <div class="row action-items">
+          <section class="col-md-6">
+              <h3>
                   DON'T release balloons.
-              </h2>
+              </h3>
               <img src="images/Carousel_Placeholder.png" alt="">
               <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
-              <h2>
+          <section class="col-md-6">
+              <h3>
                   Lorem ipsum
-              </h2>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
-              </p>
-          </section>
-          <section class="col-md-4 new_stories">
-              <h2>
-                  Lorem ipsum
-              </h2>
+              </h3>
               <img src="images/Carousel_Placeholder.png" alt="">
               <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
         </div>
-        <div class="row">
-          <section class="col-md-4 new_stories">
-              <h2>
+        
+        <div class="row action-items">
+          <section class="col-md-6">
+              <h3>
                   DON'T release balloons.
-              </h2>
+              </h3>
               <img src="images/Carousel_Placeholder.png" alt="">
               <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
-              <h2>
+          <section class="col-md-6">
+              <h3>
                   Lorem ipsum
-              </h2>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
-              </p>
-          </section>
-          <section class="col-md-4 new_stories">
-              <h2>
-                  Lorem ipsum
-              </h2>
+              </h3>
               <img src="images/Carousel_Placeholder.png" alt="">
               <p>
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 

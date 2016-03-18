@@ -12,7 +12,7 @@
       ?>
       
       <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-md-4 page-title">
                 <h1>
                      SVW Store
                 </h1>

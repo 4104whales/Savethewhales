@@ -316,6 +316,7 @@ h3{
 
 /* Start Store Styles*/
 .store-items{
+	margin-bottom: 30px;
 }
 .store-items img{
 	max-width: 600px;

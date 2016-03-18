@@ -12,7 +12,7 @@
     ?>
     
   <div class="row">
-    <section class="col-md-4 column-center">
+    <section class="col-xs-4 column-center">
         <h1>
             Our Founder 
         </h1>

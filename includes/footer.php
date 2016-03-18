@@ -1,7 +1,7 @@
   <footer class="footer">
       <div class="container">
           <div class="row">
-              <section class="col-md-4 copyright">
+              <section class="col-xs-4 copyright">
 <!--                  <ul class="footer-links">
                       <li>
                           <a href="founder.php">
@@ -33,7 +33,7 @@
               </section>
           </div>
           <div class="row">
-              <section class="col-md-4 copyright">
+              <section class="col-xs-4 copyright">
                    Copyright © 1994-2016 • Save The Whales 
               </section>
           </div>

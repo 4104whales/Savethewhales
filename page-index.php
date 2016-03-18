@@ -58,7 +58,7 @@
   	</div>
   
   <div class="row">
-    <section class="col-md-4 column-center">
+    <section class="col-xs-4 column-center">
           <h2>
                Enter your email and click the Subscribe button below to learn more about Save the Whales programs, petitions, fun facts and more! 
           </h2>
@@ -73,7 +73,7 @@
       </section>
   </div>
   <div class="row">
-    <section class="col-md-4 new_stories">
+    <section class="col-xs-4 new_stories">
         <h2>
             Learn
         </h2>
@@ -82,7 +82,7 @@
         	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
         </p>
     </section>
-    <section class="col-md-4 new_stories">
+    <section class="col-xs-4 new_stories">
         <h2>
             Teach
         </h2>
@@ -91,7 +91,7 @@
         	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
         </p>
     </section>
-    <section class="col-md-4 new_stories">
+    <section class="col-xs-4 new_stories">
         <h2>
             Volunteer
         </h2>
@@ -102,7 +102,7 @@
     </section>
   </div>
   <div class="row">
-    <section class="col-md-4 column-center">
+    <section class="col-xs-4 column-center">
         <h2>
             BECAUSE WE CARE FOR ALL MARINE ANIMALS 
         </h2>

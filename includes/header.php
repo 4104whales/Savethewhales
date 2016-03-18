@@ -11,6 +11,7 @@
           <li><a href="membership.php">Membership</a></li>       
           <li class="dropdown"><a href="action.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Take Action<span class="caret"></span></a>
             <ul class="dropdown-menu">
+              <li><a href="action.php">Take Action</a></li>
               <li><a href="outreach.php">Outreach & Education Programs</a></li>
               <li><a href="sing.php">Sing to Save the Whales</a></li>
               <li><a href="flyers.php">Informational Flyers</a></li>
@@ -20,6 +21,7 @@
           </li>
           <li class="dropdown"><a href="whales.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">All About Whales<span class="caret"></span></a>
             <ul class="dropdown-menu">
+            	<li><a href="whales.php">All About Whales</li>
               <li><a href="endangered.php">Endangered Species</a></li>
               <li><a href="captivity.php">Marine Animals in Captivity</a></li>
             </ul>

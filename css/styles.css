@@ -233,7 +233,24 @@ h3{
 	clear: both;
 	margin-top: 20px;
 }
-/*End Petitions Styles*/
+/* End Petitions Styles*/
+
+/* Start Store Styles*/
+.store-items{
+}
+.store-items img{
+	max-width: 600px;
+}
+.store-items h3{
+	padding: 0;
+	margin-top: 10px;
+	float: left;
+}
+.store-items h4{
+	float: right;
+	margin-right: 5px;
+}
+/* End Store Styles*/
 
 /* Start Footer Styles*/
 .footer{

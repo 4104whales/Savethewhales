@@ -173,7 +173,7 @@ h3{
 }
 /*End contact Styles*/
 
-/* Start Footer Styles*/
+/* Start Sing Styles*/
 .sing-audio{
 }
 .sing-audio audio{
@@ -182,7 +182,34 @@ h3{
 .sing-audio button{
 	margin: 10px 0;
 }
-/*End contact Styles*/
+/*End Sing Styles*/
+
+/* Start Flyer Styles*/
+.flyer-info{
+	margin-bottom: 30px;
+}
+.flyer-info img{
+	max-width: 300px;
+}
+.flyer-info h3{
+	padding: 0px;
+	float: left;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+.flyer-info h4{
+	clear: left;
+	float: left;
+}
+.flyer-info button{
+	float: right;
+	margin-bottom: 10px;
+}
+.flyer-info p{
+	float: left;
+	clear: left;
+}
+/*End Flyer Styles*/
 
 /* Start Footer Styles*/
 .footer{

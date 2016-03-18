@@ -12,7 +12,7 @@
         ?>
     	
         <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-xs-4 column-center">
                 <h1>
                      Take Action 
                 </h1>
@@ -22,7 +22,7 @@
             </section>
         </div>
         <div class="row">
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   DON'T release balloons.
               </h2>
@@ -31,7 +31,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   Lorem ipsum
               </h2>
@@ -40,7 +40,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   Lorem ipsum
               </h2>
@@ -51,7 +51,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   DON'T release balloons.
               </h2>
@@ -60,7 +60,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   Lorem ipsum
               </h2>
@@ -69,7 +69,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   Lorem ipsum
               </h2>
@@ -80,7 +80,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   DON'T release balloons.
               </h2>
@@ -89,7 +89,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   Lorem ipsum
               </h2>
@@ -98,7 +98,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <h2>
                   Lorem ipsum
               </h2>

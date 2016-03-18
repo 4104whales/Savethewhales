@@ -12,7 +12,7 @@
         ?>
       	
         <div class="row">
-          <section class="col-md-4 column-center">
+          <section class="col-xs-4 column-center">
                 <h1>
                      Help By Becoming A Member Of Save The Whales One Person Can Make A Difference! 
                 </h1>
@@ -20,7 +20,7 @@
             </section>
         </div>
         <div class="row">
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <img src="images/Carousel_Placeholder.png" alt="">
               <h2>
                   Child
@@ -29,7 +29,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <img src="images/Carousel_Placeholder.png" alt="">
               <h2>
                   Regular
@@ -38,7 +38,7 @@
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
               </p>
           </section>
-          <section class="col-md-4 new_stories">
+          <section class="col-xs-4 new_stories">
               <img src="images/Carousel_Placeholder.png" alt="">
               <h2>
                   Student/Senior
@@ -49,7 +49,7 @@
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 form-center">
+          <section class="col-xs-4 form-center">
               <form class="pure-form pure-form-stacked">
                   <fieldset>
                       <div class="pure-u-1 pure-u-md-1-3">

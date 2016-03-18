@@ -14,7 +14,7 @@
   <div class="row">
     <section class="col-md-4 column-center">
         <h1>
-            Our Founder 
+            About the Founder
         </h1>
         <img class="imgleft" src="images/Carousel_Placeholder.png" alt="">
         <p>

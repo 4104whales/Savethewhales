@@ -11,7 +11,7 @@
 		include "includes/header.php";
     ?>
     <div class="row">
-        <h1 class="page-title">
+        <h1 class="col-md-4 page-title">
            Contact Us
         </h1>
     </div>

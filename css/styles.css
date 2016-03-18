@@ -37,7 +37,7 @@ h3{
 	margin: 0 30px;
 }
 .column-center img, .column-center input{
-	max-width: 300px;
+	max-width: 600px;
 	width: 100%;
 }
 .page-title{
@@ -95,7 +95,7 @@ h3{
 	justify-content: center;
 }
 .new_stories img{
-	max-width: 300px;
+	max-width: 600px;
 	width: 100%;
 	margin: 0 auto;
 	display: block;
@@ -129,7 +129,7 @@ h3{
 
 /* Start Staff Styles */
 .staff-img img{
-	max-width: 300px;
+	max-width: 600px;
 	width: 100%;
 	float: right;
 	margin-bottom: 30px;
@@ -227,7 +227,7 @@ h3{
 	margin-bottom: 30px;
 }
 .flyer-info img{
-	max-width: 300px;
+	max-width: 600px;
 	width: 100%;
 }
 .flyer-info h3{

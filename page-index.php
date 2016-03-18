@@ -11,7 +11,7 @@
 		include "includes/header.php";
     ?>
     <div class="row">
-        <h1 class="tag-line">
+        <h1 class="page-title">
             Save the Whales is a 501(c)(3) Nonprofit Educational Organization that educates kids and adults about marine life and how to preserve their way of living.
         </h1>
     </div>
@@ -58,18 +58,16 @@
   	</div>
   
   <div class="row">
-    <section class="col-md-4 column-center">
+    <section class="col-md-4 page-mid-title">
           <h2>
                Enter your email and click the Subscribe button below to learn more about Save the Whales programs, petitions, fun facts and more! 
           </h2>
-          <div>
-          	<form class="subscribe">
-          	  <div class="input-group">
-          	    <input type="email" class="form-control" placeholder="Email" >
-       	      </div>
-              <button type="button" class="btn btn-default">Subscribe</button>
-            </form>
-          </div>
+          <form class="pure-form pure-form-stacked">
+              <fieldset>
+                  <input class="pure-input-1" id="membership-email" type="email" placeholder="Email">
+                  <button type="submit" class="pure-button pure-button-primary">Subscribe</button>
+              </fieldset>
+          </form>
       </section>
   </div>
   <div class="row">
@@ -102,7 +100,7 @@
     </section>
   </div>
   <div class="row">
-    <section class="col-md-4 column-center">
+    <section class="col-md-4 page-mid-title">
         <h2>
             BECAUSE WE CARE FOR ALL MARINE ANIMALS 
         </h2>

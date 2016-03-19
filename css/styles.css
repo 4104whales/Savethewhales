@@ -1,10 +1,16 @@
 @charset "utf-8";
 /* CSS Document */
 
+/* Start Fonts */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+/* End Fonts */
 
 /* Start All Styles */
 body{
 	height: 100%;
+	font-size: 10px;
+	font-family: 'Open Sans', sans-serif;
 }
 .container-fluid{
   min-height: 100%;
@@ -15,16 +21,35 @@ body{
   padding: 0 0 60px;
 }
 h1{
-	font-size: 30px;
+	font-size: 3em;
 	padding: 10px 35px 30px 35px;
 }
 h2{
-	font-size: 24px;
+	font-size: 2.5em;
 	text-align: center;
 }
 h3{
-	font-size: 20px;
+	font-size: 2em;
 	padding: 0 35px;
+}
+h4{
+	font-size: 1.5em;
+}
+p{
+	font-size: 1.5em;
+	font-family: 'Oswald', sans-serif;
+}
+.navbar{
+	font-size: 2em;
+	height: 3em;
+	line-height: 1.5em;
+}
+.nav li a{
+	height: 3em;
+	line-height: 1.5em;
+}
+input, .pure-button{
+	font-size: 1.8em;
 }
 .column-center{
 	margin: 0 auto;
@@ -33,7 +58,7 @@ h3{
 }
 .column-center p{
 	text-align: left;
-	font-size: 16px;
+	font-size: 1.6em;
 	margin: 0 30px;
 }
 .column-center img, .column-center input{
@@ -168,7 +193,7 @@ h3{
 	list-style: none;
 }
 .contact-info li{
-	font-size: 16px;
+	font-size: 1.6px;
 	line-height: 38px;
 	margin: 30px 0;
 }
@@ -337,6 +362,7 @@ h3{
 .footer{
 	background-color: #f5f5f5;
 	padding: 10px 0;
+	font-size: 1.4em;
 }
 .footer-links{
 	text-decoration: none;

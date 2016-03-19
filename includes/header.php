@@ -21,7 +21,7 @@
           </li>
           <li class="dropdown"><a href="whales.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">All About Whales<span class="caret"></span></a>
             <ul class="dropdown-menu">
-            	<li><a href="whales.php">All About Whales</li>
+            	<li><a href="whales.php">All About Whales</a></li>
               <li><a href="endangered.php">Endangered Species</a></li>
               <li><a href="captivity.php">Marine Animals in Captivity</a></li>
             </ul>

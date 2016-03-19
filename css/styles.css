@@ -125,11 +125,19 @@ select option{
 }
 .navbar-default{
 	border-color: #29ABE2;
+	background-color: #309BB7;
 }
 .navbar-default .navbar-nav > li > a, .dropdown-menu > li > a {
     color: white;
 }
+.navbar-default .navbar-collapse, .navbar-default .navbar-form{
+	background-color: #309BB7;
+}
 .dropdown-menu{
+	font-size: 1em;
+	color: white;
+}
+.dropdown-menu a{
 	background-color: #309BB7;
 	 color: white;
 }

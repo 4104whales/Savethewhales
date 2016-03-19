@@ -54,6 +54,7 @@ input, .pure-button, select, .pure-form select{
 	font-size: 1.8em;
 	background-color: #26a69a;
 	border: none;
+	color: black;
 }
 select option{
 	background-color: #26a69a;
@@ -140,6 +141,9 @@ select option{
 .dropdown-menu a{
 	background-color: #309BB7;
 	 color: white;
+}
+.navbar-default .navbar-toggle {
+    background-color: #29ABE2;
 }
 @media (max-width: 768px) {
    .navbar-collapse {

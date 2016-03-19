@@ -1,4 +1,4 @@
-      <img class="top-logo" src="images/SVW2.png" alt="Logo">
+      <img class="top-logo" src="images/header.png" alt="Logo">
   <nav class="navbar navbar-default navbar-fixed-top">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">

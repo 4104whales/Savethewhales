@@ -4,13 +4,15 @@
 /* Start Fonts */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,700);
 /* End Fonts */
 
 /* Start All Styles */
 body{
 	height: 100%;
 	font-size: 10px;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Raleway', sans-serif;
+	background: #68BFAD;
 }
 .container-fluid{
   min-height: 100%;
@@ -42,14 +44,23 @@ p{
 .navbar{
 	font-size: 2em;
 	height: 3em;
-	line-height: 1.5em;
+	line-height: 1.6em;
 }
 .nav li a{
 	height: 3em;
 	line-height: 1.5em;
 }
-input, .pure-button{
+input, .pure-button, select, .pure-form select{
 	font-size: 1.8em;
+	background-color: #26a69a;
+	border: none;
+}
+select option{
+	background-color: #26a69a;
+	border: none;
+}
+.pure-button:hover{
+	background-color: #2bbbad;
 }
 .column-center{
 	margin: 0 auto;
@@ -105,11 +116,22 @@ input, .pure-button{
 .navbar-fixed-top{
 	top: auto;
 	position: relative;
+	background-color: #309BB7;
 }
 .navbar-toggle {
     float: left;
     margin-left: 15px;
 	margin-right: 0;
+}
+.navbar-default{
+	border-color: #29ABE2;
+}
+.navbar-default .navbar-nav > li > a, .dropdown-menu > li > a {
+    color: white;
+}
+.dropdown-menu{
+	background-color: #309BB7;
+	 color: white;
 }
 @media (max-width: 768px) {
    .navbar-collapse {
@@ -339,6 +361,20 @@ input, .pure-button{
 }
 /* End Outreach Styles*/
 
+/* Start Whales Styles*/
+.panel-default > .panel-heading {
+    color: white;
+    border: none;
+    background-color: #309BB7;
+}
+.panel-group .panel {
+    background-color: #0FA6A0;
+}
+.flyer-info li{
+	font-size: 1.5em;
+}
+/* End Whales Styles*/
+
 /* Start Store Styles*/
 .store-items{
 	margin-bottom: 30px;
@@ -360,13 +396,13 @@ input, .pure-button{
 
 /* Start Footer Styles*/
 .footer{
-	background-color: #f5f5f5;
+	background-color: #309BB7;
 	padding: 10px 0;
 	font-size: 1.4em;
 }
 .footer-links{
 	text-decoration: none;
-	color: rgba(255,255,255,1.00);
+	color: white;
 	list-style: none;
 }
 .footer-links li{
@@ -385,7 +421,7 @@ input, .pure-button{
 }
 .footer-links li a{
 	text-decoration: none;
-	color: rgba(177,177,177,1.00);
+	color: white;
 }
 .footer-links li a:hover{
 	color: rgba(0,0,0,1.00);
@@ -397,7 +433,7 @@ input, .pure-button{
 }
 .copyright{
 	text-align: center;
-	color: rgba(177,177,177,1.00);
+	color: white;
 	padding: 3px 0;
 }
 /* End Footer Styles*/

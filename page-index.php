@@ -13,6 +13,7 @@
   
   <div class="row">
     <section class="col-xs-12">
+      <img src="http://placehold.it/1460x650">
           <h2>
               Subscribe to Our Newsletter
           </h2>

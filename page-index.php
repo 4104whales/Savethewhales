@@ -14,8 +14,10 @@
   <div class="row">
     <section class="col-xs-12">
           <h2>
-              Subscribe to newletter
+              Subscribe to Our Newsletter
           </h2>
+          <input type="text" placeholder="Email Address">
+          <button>Subscribe</button>
           <div>
           </div>
       </section>
@@ -25,22 +27,32 @@
         <h2>
             Learn
         </h2>
+        <img src="images/education.png" alt="Learn">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
     <section class="col-xs-4 new_stories">
         <h2>
             Teach
         </h2>
+        <img src="images/school.png" alt="Teach">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
     <section class="col-xs-4 new_stories">
         <h2>
             Volunteer
         </h2>
+        <img src="images/hand.png" alt="Volunteer">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
   </div>
   <div class="row">
     <section class="col-xs-12 new_stories">
         <h2>
-            Because we care
+            Because we care about all marine animals
+        </h2>
+
+        <h2>
+          Especially the Whales!
         </h2>
     </section>
   </div>

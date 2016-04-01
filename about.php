@@ -1,3 +1,4 @@
+@@ -1,54 +0,0 @@
 <?php
 	include "includes/head.php";
 ?>

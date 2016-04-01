@@ -64,32 +64,32 @@
           </h2>
           <form class="pure-form pure-form-stacked">
               <fieldset>
-                  <input class="pure-input-1" id="membership-email" type="email" placeholder="Email">
+                  <input class="pure-input-1" id="membership-email" type="email" placeholder="Email Address">
                   <button type="submit" class="pure-button pure-button-primary">Subscribe</button>
               </fieldset>
           </form>
       </section>
   </div>
   <div class="row">
-    <section class="col-md-4 new_stories">
+    <section class="col-md-4 new_stories" id="s1">
         <h2>
             Learn
         </h2>
-        <img src="images/education.png" alt="Learn">
+        <img src="images/education.png" alt="Learn" style="height:128px; width:128px;">
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
-    <section class="col-md-4 new_stories">
+    <section class="col-md-4 new_stories" id="s2">
         <h2>
             Teach
         </h2>
-        <img src="images/school.png" alt="Teach">
+        <img src="images/school.png" alt="Teach" style="height:128px; width:171px;">
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
-    <section class="col-md-4 new_stories">
+    <section class="col-md-4 new_stories" id="s3">
         <h2>
             Volunteer
         </h2>
-        <img src="images/hand.png" alt="Volunteer">
+        <img src="images/hand.png" alt="Volunteer" style="height:128px; width:88px;">
         <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
   </div>

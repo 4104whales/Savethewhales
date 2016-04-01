@@ -1,7 +1,8 @@
+@@ -1,54 +0,0 @@
 <?php
 	include "includes/head.php";
 ?>
-<title>Take Action | Save the Whales</title>
+<title>About Us | Save the Whales</title>
 </head>
 
 <body style="padding-top: 70px">

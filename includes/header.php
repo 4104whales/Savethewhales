@@ -1,4 +1,4 @@
-      <img class="top-logo" src="images/SVW2.png" alt="Logo">
+      <img class="top-logo" src="images/header.png" alt="Logo">
   <nav class="navbar navbar-default navbar-fixed-top">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
@@ -21,7 +21,7 @@
           </li>
           <li class="dropdown"><a href="whales.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">All About Whales<span class="caret"></span></a>
             <ul class="dropdown-menu">
-            	<li><a href="whales.php">All About Whales</li>
+            	<li><a href="whales.php">All About Whales</a></li>
               <li><a href="endangered.php">Endangered Species</a></li>
               <li><a href="captivity.php">Marine Animals in Captivity</a></li>
             </ul>

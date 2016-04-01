@@ -75,28 +75,22 @@
         <h2>
             Learn
         </h2>
-        <img src="images/Carousel_Placeholder.png" alt="">
-        <p>
-        	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
-        </p>
+        <img src="images/education.png" alt="Learn">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
     <section class="col-md-4 new_stories">
         <h2>
             Teach
         </h2>
-        <img src="images/Carousel_Placeholder.png" alt="">
-        <p>
-        	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
-        </p>
+        <img src="images/school.png" alt="Teach">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
     <section class="col-md-4 new_stories">
         <h2>
             Volunteer
         </h2>
-        <img src="images/Carousel_Placeholder.png" alt="">
-        <p>
-        	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
-        </p>
+        <img src="images/hand.png" alt="Volunteer">
+        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
   </div>
   <div class="row">

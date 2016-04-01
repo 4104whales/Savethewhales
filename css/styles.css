@@ -102,8 +102,7 @@ select option{
 	margin-top: 30px;
 }
 .page-title h1{
-	padding: 0;
-	margin: 0;
+	text-align: center;
 }
 .page-title h2{
 	padding: 10px;

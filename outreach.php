@@ -1,7 +1,7 @@
 <?php
 	include "includes/head.php";
 ?>
-<title>Outreach & Education Programs | Save the Whales</title>
+<title>Outreach &amp; Education Programs | Save the Whales</title>
 </head>
 
 <body>
@@ -12,7 +12,7 @@
         ?>
         
         <div class="row">
-          <section class="col-md-4 page-title">
+          <section class="col-md-12 page-title">
               <h1>
                   Whales On Wheels (WOW)
               </h1>

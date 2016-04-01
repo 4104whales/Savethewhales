@@ -1,4 +1,4 @@
-      <img class="top-logo" src="images/header.png" alt="Logo">
+      
   <nav class="navbar navbar-default navbar-fixed-top">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
@@ -12,7 +12,7 @@
           <li class="dropdown"><a href="action.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Take Action<span class="caret"></span></a>
             <ul class="dropdown-menu">
               <li><a href="action.php">Take Action</a></li>
-              <li><a href="outreach.php">Outreach & Education Programs</a></li>
+              <li><a href="outreach.php">Outreach &amp; Education Programs</a></li>
               <li><a href="sing.php">Sing to Save the Whales</a></li>
               <li><a href="flyers.php">Informational Flyers</a></li>
               <li><a href="petitions.php">Petitions</a></li>
@@ -28,8 +28,12 @@
           </li>
           <li><a href="store.php">Store</a></li>
         </ul>
+
       </div>
       <!-- /.navbar-collapse -->
+
     </div>
     <!-- /.container-fluid -->
+
   </nav>
+  <img class="top-logo" src="images/SVW.png" alt="Logo">

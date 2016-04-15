@@ -4,13 +4,13 @@
               <section class="col-md-offset-4 col-md-4 copyright">
                   <div class="social-icons">
                   	<a href="http://www.facebook.com/pages/Save-The-Whales/257469333794" target="_blank">
-                      <img src="images/icons/facebook.png" alt="facebook icon">
+                      <img src="images/icons/fb.png" alt="facebook icon" style="width:52px; height:50px;">
                     </a>
                     <a href="https://twitter.com/SaveTheWhalesCA" target="_blank">
-                      <img src="images/icons/twitter.png" alt="twitter icon">
+                      <img src="images/icons/twitter2.png" alt="twitter icon" style="width:52px; height:50px;">
                     </a>
                     <a href="https://www.instagram.com/savethewhalesofficial/" target="_blank">
-                      <img src="images/icons/instagram.png" alt="instagram icon">
+                      <img src="images/icons/insta.png" alt="instagram icon" style="width:52px; height:50px;">
                     </a>
                   </div>
               </section>

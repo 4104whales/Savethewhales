@@ -19,12 +19,12 @@
                 <h2>
                      One Person Can Make A Difference! 
                 </h2>
-                <img src="images/Carousel_Placeholder.png" alt="">
+                <img src="images/tshirts014.jpg" alt="">
             </section>
         </div>
         <div class="row">
           <section class="col-md-4 new_stories">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/SABlueWhale.jpg" alt="">
               <h2>
                   Child
               </h2>
@@ -33,7 +33,7 @@
               </p>
           </section>
           <section class="col-md-4 new_stories">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/svw_tote.png" alt="">
               <h2>
                   Regular
               </h2>
@@ -42,7 +42,7 @@
               </p>
           </section>
           <section class="col-md-4 new_stories">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/SVWmug.png" alt="">
               <h2>
                   Student/Senior
               </h2>

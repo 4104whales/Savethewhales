@@ -465,4 +465,17 @@ select option{
 	color: white;
 	padding: 3px 0;
 }
+
+
+/*take action styles*/
+
+#todo img {
+	display: inline-block;
+	width:300px;
+	height: 300px;
+}
+
+#todo {
+	display: inline-block;
+}
 /* End Footer Styles*/

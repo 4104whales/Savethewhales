@@ -24,7 +24,7 @@
         
         <div class="row store-items">
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/turtleEarings.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -33,7 +33,7 @@
               </h4>
           </section>
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/STW-KeyChain_1.gif" alt="">
               <h3>
                  Item Name
               </h3>
@@ -42,7 +42,7 @@
               </h4>
           </section>
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/whaleTailpsd.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -54,7 +54,7 @@
         
         <div class="row store-items">
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/Splash.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -63,7 +63,7 @@
               </h4>
           </section>
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/SASeaTurtle_1.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -72,7 +72,7 @@
               </h4>
           </section>
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/netbracelet.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -84,7 +84,7 @@
         
   <div class="row store-items">
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/SADolphin.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -93,7 +93,7 @@
               </h4>
           </section>
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/SAPolarBear.jpg" alt="">
               <h3>
                  Item Name
               </h3>
@@ -102,7 +102,7 @@
               </h4>
           </section>
           <section class="col-md-4">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/SASeaLion.jpg" alt="">
               <h3>
                  Item Name
               </h3>

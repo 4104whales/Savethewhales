@@ -6,13 +6,13 @@
 
 <body style="padding-top: 70px">
 
-<div class="container-fluid">
+<div class="pure-container">
 	<?php
 		include "includes/header.php";
     ?>
-  
-  <div class="row">
-    <section class="col-xs-12">
+
+  <div class="pure-g pure-content">
+    <section class="pure-u-1">
           <h2>
               Take Action
           </h2>
@@ -56,10 +56,10 @@
           </div>
       </section>
   </div>
-  
+
   </div>
   </div>
-  
+
   <?php
       include "includes/footer.php";
   ?>

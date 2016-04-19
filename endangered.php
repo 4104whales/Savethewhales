@@ -6,24 +6,24 @@
 
 <body>
 
-  <div class="container-fluid">
+  <div class="pure-container">
       <?php
           include "includes/header.php";
       ?>
-      
-      <div class="row">
-          <section class="col-md-12 page-title">
+    <div class="pure-content">
+      <div class="pure-g">
+          <section class="pure-u-1 page-title">
               <h1>
                   Top 10 Endangered Whales
               </h1>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	1. Species Name
               </h3>
@@ -32,12 +32,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	2. Species Name
               </h3>
@@ -46,12 +46,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	3. Species Name
               </h3>
@@ -60,12 +60,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	4. Species Name
               </h3>
@@ -74,12 +74,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	5. Species Name
               </h3>
@@ -88,12 +88,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	6. Species Name
               </h3>
@@ -102,12 +102,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	7. Species Name
               </h3>
@@ -116,12 +116,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	8. Species Name
               </h3>
@@ -130,12 +130,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	9. Species Name
               </h3>
@@ -144,12 +144,12 @@
               </p>
           </section>
       </div>
-      
-      <div class="row flyer-info">
-          <section class="col-md-offset-2 col-md-2">
+
+      <div class="pure-g flyer-info">
+          <section class="pure-u-8-24">
               <img src="images/Carousel_Placeholder.png" alt="">
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <h3>
               	10. Species Name
               </h3>
@@ -158,9 +158,9 @@
               </p>
           </section>
       </div>
-
   </div>
-  
+</div>
+
   <?php
       include "includes/footer.php";
   ?>

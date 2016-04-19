@@ -10,51 +10,52 @@
       <?php
           include "includes/header.php";
       ?>
-      
-              <div class="row">
-          <section class="col-md-12 page-title">
+      <div class="pure-content">
+
+        <div class="pure-g">
+          <section class="1 page-title">
                 <h1>
                      Petitions
                 </h1>
                 <h2>
-                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna.  
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna.
                 </h2>
             </section>
         </div>
-        
-        <div class="row petitions-video">
-          <section class="col-md-6">
+
+        <div class="pure-g petitions-video">
+          <section class="pure-u-12-24">
               <video width="320" height="240" controls>
                 <source src="movie.mp4" type="video/mp4">
                 <source src="movie.ogg" type="video/ogg">
-              Your browser does not support the video tag.
-              </video>  
+              Your bpure-gser does not support the video tag.
+              </video>
               <h3>
                   Petition Name
               </h3>
               <button type="button" class="pure-button pure-button-primary">View Full Petiton</button>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.  
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.
               </p>
           </section>
-          <section class="col-md-6">
+          <section class="pure-u-12-24">
               <video width="320" height="240" controls>
                 <source src="movie.mp4" type="video/mp4">
                 <source src="movie.ogg" type="video/ogg">
-              Your browser does not support the video tag.
-              </video>  
+              Your bpure-gser does not support the video tag.
+              </video>
               <h3>
                   Petition Name
               </h3>
               <button type="button" class="pure-button pure-button-primary">View Full Petiton</button>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.  
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui.
               </p>
           </section>
         </div>
-
+    </div>
   </div>
-  
+
   <?php
       include "includes/footer.php";
   ?>

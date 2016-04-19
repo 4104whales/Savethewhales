@@ -13,6 +13,22 @@ body{
 	font-size: 10px;
 	font-family: 'Raleway', sans-serif;
 }
+
+/*Custom container for Pure*/
+.pure-container{
+    min-height: 100%;
+    height: auto;
+    /* Negative indent footer by its height */
+    margin: 0 auto -60px;
+    /* Pad bottom by footer height */
+    padding: 0 0px 60px 0px;
+}
+
+.pure-content{
+
+    margin-left:20px;
+    margin-right:20px;
+}
 .container-fluid{
   min-height: 100%;
   height: auto;

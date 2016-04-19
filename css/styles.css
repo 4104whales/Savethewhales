@@ -458,12 +458,24 @@ select option{
 .social-icons{
 }
 .social-icons img{
-	width: 35px;
 	padding: 4px;
 }
 .copyright{
 	text-align: center;
 	color: white;
 	padding: 3px 0;
+}
+
+
+/*take action styles*/
+
+#todo img {
+	display: inline-block;
+	width:300px;
+	height: 300px;
+}
+
+#todo {
+	display: inline-block;
 }
 /* End Footer Styles*/

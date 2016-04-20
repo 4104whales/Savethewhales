@@ -68,8 +68,8 @@ select option{
 	border: none;
 }
 
-#membership-email {
-	width: 300px;
+#membership-email, #membership-name, #membership-address {
+	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1em;

@@ -21,7 +21,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/endangeredVaquita.jpg" alt="">
+              <img src="images/vaquita_realista.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -35,7 +35,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/northpacific.jpg" alt="">
+              <img src="images/northpacific.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -49,7 +49,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/North-Atlantic-right-whale.jpg" alt="">
+              <img src="images/North-Atlantic-right-whale.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -63,7 +63,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/southasiandolphin.jpg" alt="">
+              <img src="images/southasiandolphin.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -77,7 +77,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/atlantichumpbackeddolphin.jpg" alt="">
+              <img src="images/atlantichumpbackeddolphin.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -91,7 +91,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/hectors-dolphin.jpg" alt="">
+              <img src="images/hectors-dolphin.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -105,7 +105,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/Chilean-Dolphin.jpg" alt="">
+              <img src="images/Chilean-Dolphin.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -119,7 +119,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/franciscana.jpg" alt="">
+              <img src="images/franciscana.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -133,7 +133,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/sp_snubfin_dolphin.jpg" alt="">
+              <img src="images/sp_snubfin_dolphin.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>
@@ -147,7 +147,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/Indo-PacHumpDolphin-1.jpg" alt="">
+              <img src="images/Indo-PacHumpDolphin-1.jpg" alt="" width="360" height="150">
           </section>
           <section class="col-md-6">
               <h3>

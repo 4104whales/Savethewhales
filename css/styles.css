@@ -57,24 +57,54 @@ p{
 	background: #68BFAD;
 }
 
-input, .pure-button, select, .pure-form select{
+input, select, .pure-form select{
 	font-size: 1.8em;
-	background-color: #26a69a;
+	background-color: #68BFAD;
 	border: none;
 	color: black;
+} 
+
+.pure-button {
+	background-color: #0FA6A0;
+	font-size: 2em;
+	color: white;
+	width:150px;
 }
+
 select option{
-	background-color: #26a69a;
+	background-color: #68BFAD;
 	border: none;
 }
 
-#membership-email, #membership-name, #membership-address {
+#membership-email, #membership-name, #membership-address, #membership-type {
+	color: black;
 	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 	margin-bottom: 1em;
 	margin-top: 1em;
 
+}
+
+::-webkit-input-placeholder {
+   color: #12151C;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   color: #12151C;  
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   color: #12151C;  
+}
+
+:-ms-input-placeholder {  
+   color: #12151C;  
+}
+
+#join {
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .pure-button:hover{
@@ -148,6 +178,7 @@ select option{
 .navbar-default .navbar-nav > li > a, .dropdown-menu > li > a {
     color: white;
 }
+
 .navbar-default .navbar-collapse, .navbar-default .navbar-form{
 	background-color: #309BB7;
 }

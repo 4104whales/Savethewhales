@@ -66,7 +66,7 @@
                       <input class="pure-input-1" id="membership-name" type="text" placeholder="Full Name"> 
                       <input class="pure-input-1" id="membership-email" type="email" placeholder="Email">
                       <input class="pure-input-1" id="membership-address" type="text" placeholder="Address">
-                      <button type="submit" class="pure-button pure-button-primary">Join</button>
+                      <input type="submit" id="join" class="pure-button pure-button-primary" value="Join">
                   </fieldset>
               </form>
           </section>

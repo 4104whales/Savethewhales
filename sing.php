@@ -40,8 +40,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulpu
                   <source src="audio/test.mp3" type="audio/mpeg">
                   Your browser does not support the audio element.
                </audio> 
-               <button type="button" class="pure-button pure-button-primary">Download Sheet Music PDF</button>
-               <button type="button" class="pure-button pure-button-primary">Download Song</button>
+               <button type="button" id="sing1" class="pure-button pure-button-primary">Download Sheet Music PDF</button>
+               <button type="button" id="sing2" class="pure-button pure-button-primary">Download Song</button>
           </section>
           <section class="col-md-6 staff-info">
               <h4>

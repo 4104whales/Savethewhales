@@ -14,7 +14,7 @@
       <div class="row">
           <section class="col-md-12 page-title">
                 <h1>
-                     SVW Store
+                     Our Store
                 </h1>
                 <h3>
                      Proceeds from sale of merchandise will go to funding our Save the Whales education programs. 

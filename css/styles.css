@@ -3,8 +3,12 @@
 
 /* Start Fonts */
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,300);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,700,300);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,700);
+
+@font-face {
+	src:url("...fonts/Oswald-Light.ttf");
+	font-family: 'Oswald';
+}
 /* End Fonts */
 
 /* Start All Styles */
@@ -335,10 +339,19 @@ select option{
 }
 .sing-audio audio{
 	margin-top: 14px;
+	margin-left: -110px;
 }
 .sing-audio button{
 	margin: 10px 0;
 }
+
+#sing1, #sing2 {
+	width:300px;
+	margin-left: -110px;
+}
+
+
+
 .sing-img img{
 	max-width: 300px;
 	width: 100%;

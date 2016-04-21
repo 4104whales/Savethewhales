@@ -6,7 +6,7 @@
       <!-- Collect the nav links, forms, and other content for toggling -->
       <div class="collapse navbar-collapse" id="topFixedNavbar1">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="page-index.php">Home<span class="sr-only">(current)</span></a></li>
+          <li><a href="page-index.php">Home</a></li>
           <li><a href="mission.php">Our Mission</a></li>
           <li><a href="membership.php">Membership</a></li>       
           <li class="dropdown"><a href="action.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Take Action<span class="caret"></span></a>

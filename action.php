@@ -4,8 +4,7 @@
 <title>Take Action | Save the Whales</title>
 </head>
 
-<body style="padding-top: 70px">
-
+<body>
 <div class="container-fluid">
 	<?php
 		include "includes/header.php";
@@ -14,35 +13,49 @@
   <div class="row">
     <section class="col-xs-12">
           <h2>
-              Subscribe to newletter
+              Take Action
           </h2>
-          <div>
+          <div id="todo">
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+            </figure>
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+            </figure>
+
+
           </div>
       </section>
   </div>
-  <div class="row">
-    <section class="col-xs-4 new_stories">
-        <h2>
-            Learn
-        </h2>
-    </section>
-    <section class="col-xs-4 new_stories">
-        <h2>
-            Teach
-        </h2>
-    </section>
-    <section class="col-xs-4 new_stories">
-        <h2>
-            Volunteer
-        </h2>
-    </section>
-  </div>
-  <div class="row">
-    <section class="col-xs-12 new_stories">
-        <h2>
-            Because we care
-        </h2>
-    </section>
+  
   </div>
   </div>
   

@@ -656,6 +656,10 @@ select option{
 	margin-right: auto;
 }
 
+#maris h1 {
+	font-size: 3em;
+}
+
 #bio {
 	text-align: center;
 	margin-right: auto;

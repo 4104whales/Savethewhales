@@ -31,7 +31,7 @@
               	Donations
               </h3>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet. Quisque laoreet sem sit amet orci ullamcorper at ultricies metus viverra. Pellentesque arcu mauris, malesuada quis ornare accumsan, blandit sed diam.
+                  When you donate to Save The Whales you are helping our organization educate children and adults about marine mammals, their environment and their preservation. To date, Save The Whales has educated over 277,000 students. Your contribution to Save The Whales is tax-deductible. Save The Whales is a California 501(c)(3) Nonprofit Public Benefit Corporation.
               </p>
               <button type="button" class="pure-button pure-button-primary">Donate to Save the Whlaes Today!</button>
           </section>
@@ -46,7 +46,7 @@
               	Volunteer
               </h3>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet. Quisque laoreet sem sit amet orci ullamcorper at ultricies metus viverra. Pellentesque arcu mauris, malesuada quis ornare accumsan, blandit sed diam.
+                  Volunteer with local community groups to stencil storm drains, Adopt A Beach, or monitor the water quality of local watersheds. Organize your classroom, school club, or organization to clean litter from rivers, creeks, estuaries, and beaches.
               </p>
           </section>
       </div>
@@ -60,21 +60,21 @@
               	Become a Patron
               </h3>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet. Quisque laoreet sem sit amet orci ullamcorper at ultricies metus viverra. Pellentesque arcu mauris, malesuada quis ornare accumsan, blandit sed diam.
+                  By becoming a patron of Save The Whales you are helping a great cause by helping protect these lovely ocean mammals. You are also helping us by helping fund and continue to educate young children and adults about ways to protect these lovely creatures and their natural habitat.
               </p>
               <div>
                   <h4>
-                      You can do this by:
+                      To become a patron of Save the Whales, you can:
                   </h4>
                   <ol>
                     <li>
-                        Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna.
+                        Become a member by joining our membership. When you purchase a membership those funds go directly to our education program WOW (Whales On Wheels) and also help us fund supplies to help our marine friends. Another benefit of becoming a member is you get a free gift along with your membership
                     </li>
                     <li>
-                        Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna.
+                        Help do fundraisers and support our cause. Encourage your club or church group raise money and to help these precious creatures. You can do this by doing bake sales, make whale bookmarks to sell, or run races. Every cent helps these beautiful animals.
                     </li>
                     <li>
-                        Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna.
+                        Lastly, you can make a purchase from our store. For any product you buy, some of the proceeds will go to Save The Whales.
                     </li>
                   </ol>
               </div>

@@ -1,4 +1,4 @@
-      
+
   <nav class="navbar navbar-default navbar-fixed-top">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
@@ -8,9 +8,9 @@
         <ul class="nav navbar-nav">
           <li><a href="page-index.php">Home</a></li>
           <li><a href="mission.php">Our Mission</a></li>
-          <li><a href="membership.php">Membership</a></li>       
+          <li><a href="membership.php">Membership</a></li>
           <li class="dropdown"><a href="action.php" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Take Action<span class="caret"></span></a>
-            <ul class="dropdown-menu">
+            <ul class="dropdown-menu centerNav">
               <li><a href="action.php">Take Action</a></li>
               <li><a href="outreach.php">Outreach &amp; Education Programs</a></li>
               <li><a href="sing.php">Sing to Save the Whales</a></li>

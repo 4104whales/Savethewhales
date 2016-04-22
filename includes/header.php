@@ -14,7 +14,6 @@
               <li><a href="action.php">Take Action</a></li>
               <li><a href="outreach.php">Outreach &amp; Education Programs</a></li>
               <li><a href="sing.php">Sing to Save the Whales</a></li>
-              <li><a href="flyers.php">Informational Flyers</a></li>
               <li><a href="petitions.php">Petitions</a></li>
               <li><a href="support.php">Support Our Cause</a></li>
             </ul>

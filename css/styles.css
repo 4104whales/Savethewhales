@@ -39,20 +39,27 @@ h2{
 	font-size: 2.3em;
 	text-align: center;
 	font-family: 'PierBold';
+	padding: 1em;
 }
 h3{
 	font-size: 2em;
 	padding: 0 35px;
 	font-family: 'PierBold';
+	padding: 1em;
 }
 h4{
 	font-size: 1.5em;
 	font-family: 'PierBold';
+	padding: 1em;
 }
 p{
 	font-size: 1.5em;
 	font-family: 'jauria', sans-serif;
+	padding-top: 1.3em;
+	padding-bottom: 1.3em; 
 }
+
+
 .navbar{
 	font-size: 2em;
 	height: 3em;
@@ -67,7 +74,30 @@ p{
 }
 
 #s1, #s2, #s3 {
-	background: #68BFAD;
+	color: white;
+	height:35em;
+	
+	padding: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#s1 p, #s2 p, #s3 p{
+	padding: 1em;
+	padding-top:2em;
+	padding-bottom: 2em;
+}
+
+#s1 {
+	background-color: #309BB7;
+}
+
+#s2 {
+	background-color: #29ABE2;
+}
+
+#s3 {
+	background-color: #0FA6A0;
 }
 
 input, select, .pure-form select{

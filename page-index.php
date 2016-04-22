@@ -23,26 +23,37 @@
               <li data-target="#myCarousel" data-slide-to="1"></li>
               <li data-target="#myCarousel" data-slide-to="2"></li>
               <li data-target="#myCarousel" data-slide-to="3"></li>
+              <li data-target="#myCarousel" data-slide-to="4"></li>
+              <li data-target="#myCarousel" data-slide-to="5"></li>
             </ol>
         
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
         
               <div class="item active">
-                <img src="images/Carousel_Placeholder.png" alt="Chania" width="600" height="400">
-                <div class="carousel-caption">
-                  <h3>Slider Item</h3>
-                  <p>This is a placeholder slider item.</p>
-                </div>
+                <img src="images/volunteer.jpg" alt="Chania" width="600" height="400">
+                
               </div>
         
               <div class="item">
-                <img src="images/Carousel_Placeholder.png" alt="Chania" width="600" height="400">
-                <div class="carousel-caption">
-                  <h3>Slider Item</h3>
-                  <p>This is a placeholder slider item.</p>
-                </div>
-              </div>          
+                <img src="images/captivity.jpg" alt="Chania" width="600" height="400">
+                
+              </div> 
+
+              <div class="item">
+                <img src="images/_55833600_whale.jpg" alt="Chania" width="600" height="400">
+                
+              </div>
+
+              <div class="item">
+                <img src="images/544603_10151307196408795_671838169_n.jpg" alt="Chania" width="600" height="400">
+                
+              </div>
+
+              <div class="item">
+                <img src="images/children.jpg" alt="Chania" width="600" height="400">
+                
+              </div>         
             </div>
         
             <!-- Left and right controls -->
@@ -76,21 +87,20 @@
             Learn
         </h2>
         <img src="images/education.png" alt="Learn" style="height:128px; width:128px;">
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
     </section>
     <section class="col-md-4 new_stories" id="s2">
         <h2>
             Teach
         </h2>
         <img src="images/school.png" alt="Teach" style="height:128px; width:171px;">
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+
     </section>
     <section class="col-md-4 new_stories" id="s3">
         <h2>
             Volunteer
         </h2>
         <img src="images/hand.png" alt="Volunteer" style="height:128px; width:88px;">
-        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.</p>
+
     </section>
   </div>
   <div class="row">
@@ -98,9 +108,9 @@
         <h2>
             BECAUSE WE CARE FOR ALL MARINE ANIMALS 
         </h2>
-        <img src="images/Carousel_Placeholder.png" alt="">
+        <img src="images/killerwhale.jpg" alt="">
         <h3>
-        	Especially The Whales 
+        	Especially The Whales!
         </h3>
     </section>
   </div>

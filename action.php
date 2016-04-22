@@ -19,36 +19,55 @@
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Don’t release balloons </p>
             </figure>
 
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Volunteer </p>
             </figure>
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-            </figure>
-
-            <figure>
-              <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Participate in Save The Whales’ Petitions </p>
             </figure>
 
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Cut up plastic six-pack rings </p>
             </figure>
 
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Pick up trash</p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Keep your car well maintained </p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Never discard used fishing line and hooks </p>
+            </figure>
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Never Dump </p>
+            </figure>
+
+
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Recycle, Reuse and Reduce.</p>
             </figure>
 
 

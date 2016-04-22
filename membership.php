@@ -29,7 +29,7 @@
                   Child
               </h2>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+                  Your child would love this amazing whale plush toy when you sign up him or her to be a Save The Whale member. 
               </p>
           </section>
           <section class="col-md-4 new_stories">
@@ -38,7 +38,7 @@
                   Regular
               </h2>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+                  When you sign up to be a regular member of Save The Whales you receive a tote bag with our logo on it.  
               </p>
           </section>
           <section class="col-md-4 new_stories">
@@ -47,7 +47,7 @@
                   Student/Senior
               </h2>
               <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. 
+                  If you’re a student or a senior you get our specialty discount rate and a lovely coffee mug with our logo on it when you become a member of Save The Whales.
               </p>
           </section>
         </div>

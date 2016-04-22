@@ -52,7 +52,7 @@
 (We need to stop) the sonar war technology; It blasts their ear-drums and their pain is great! We ned to stop polluting with the chemicals, balloons and plastic bags that suffocate! There’s no more room to bread with oil drilling greed destroying vital feeding grounds off shore! We want to Save The Whales, come help us Save The Whales, so we can put an end to war!
 
 (We ask the) presidents and other heads of state, and the United Nations everywhere, to create laws protecting all of ocean life, and to enforce these laws with loving care. We ask the people of the world to stop polluting: Turn your lives around and start a new! We want to Save The Whales, come help us Save The Whales, and we will save our planet (too.)
-
+            <br><br><br>
 
               </p>
           </section>

@@ -200,7 +200,7 @@ Deaths like Wally’s occur frequently. But the public usually doesn’t know, a
 
       <div class="row flyer-info">
           <section class="col-md-offset-1 col-md-3">
-              <img src="images/sharkyL_468x318.jpgg" alt="">
+              <img src="images/sharkyL_468x318.jpg" alt="">
           </section>
           <section class="col-md-7">
               <h3>
@@ -228,9 +228,3 @@ Around the world, about 1,000 dolphins are held captive by the “entertainment�
 
 </body>
 </html>
-Wally was one of the marine mammal stars at Knott’s Berry Farm, Buena Park, California, over a decade ago. Since that time, Knott’s has discontinued the practice of captive dolphins, a project the Save The Whales worked on.
-
-Wally, a 10-year-old Atlantic bottlenose dolphin, died of congestive heart failure. He was a big attraction and appeared with two other dolphins, Katie and Tai. The trio was moved to Magic Mountain while their pool was cleaned. Veterinarian Joe Alexander did not believe the move contributed to Wally’s death but stated that bottlenose dolphins usually live to their late 20s.
-
-Deaths like Wally’s occur frequently. But the public usually doesn’t know, as the parks keep this negative news from the public. At Sea World all of the orcas are called “Shamu,” so the death of an orca may go unnoticed.
-

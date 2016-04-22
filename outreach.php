@@ -73,7 +73,7 @@
           </section>
           <section class="col-md-7 staff-info">
               <h2 class="staff-name">
-                  The Land &amp; See Watershed Model
+                  The Land &amp; Sea Watershed Model
               </h2>
               <p>
                   See how human actions on land flow directly to the sea through storm drains. Students will “pollute” the hands-on model and simulate rain, which leads to creeks, rivers, and oceans. Learn how one person can make a difference. Grade 3 and Up

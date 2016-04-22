@@ -6,13 +6,28 @@
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,500,700);
 
 @font-face {
-	src:url("../fonts/Aileron-Bold.otf");
-	font-family: 'PierBold';
+    font-family: 'PierBold';
+    src: url('../fonts/aileron-bold-webfont.eot');
+    src: url('../fonts/aileron-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/aileron-bold-webfont.woff2') format('woff2'),
+         url('../fonts/aileron-bold-webfont.woff') format('woff'),
+         url('../fonts/aileron-bold-webfont.ttf') format('truetype'),
+         url('../fonts/aileron-bold-webfont.svg#aileronbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 @font-face {
-	src:url("../fonts/jauria.otf");
 	font-family: 'jauria';
+	src: url('../fonts/jauria.eot');
+    src: url('../fonts/jauria.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/jauria.woff2') format('woff2'),
+         url('../fonts/jauria.woff') format('woff'),
+         url('../fonts/jauria.ttf') format('truetype'),
+         url('../fonts/jauria.svg#aileronbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
 }
 /* End Fonts */
 
@@ -34,25 +49,32 @@ h1{
 	font-size: 2.6em;
 	padding: 10px 35px 30px 35px;
 	font-family: 'PierBold';
+    text-align: center;
 }
 h2{
 	font-size: 2.3em;
 	text-align: center;
 	font-family: 'PierBold';
+	padding: 1em;
 }
 h3{
 	font-size: 2em;
 	padding: 0 35px;
 	font-family: 'PierBold';
+	padding: 1em;
 }
 h4{
 	font-size: 1.5em;
 	font-family: 'PierBold';
+	padding: 1em;
 }
 p{
 	font-size: 1.5em;
 	font-family: 'jauria', sans-serif;
+	padding-top: 0;
 }
+
+
 .navbar{
 	font-size: 2em;
 	height: 3em;
@@ -67,7 +89,30 @@ p{
 }
 
 #s1, #s2, #s3 {
-	background: #68BFAD;
+	color: white;
+	height:35em;
+
+	padding: 1em;
+	margin-top: 2em;
+	margin-bottom: 2em;
+}
+
+#s1 p, #s2 p, #s3 p{
+	padding: 1em;
+	padding-top:2em;
+	padding-bottom: 2em;
+}
+
+#s1 {
+	background-color: #309BB7;
+}
+
+#s2 {
+	background-color: #29ABE2;
+}
+
+#s3 {
+	background-color: #0FA6A0;
 }
 
 input, select, .pure-form select{
@@ -75,7 +120,7 @@ input, select, .pure-form select{
 	background-color: #68BFAD;
 	border: none;
 	color: black;
-} 
+}
 
 .pure-button {
 	background-color: #0FA6A0;
@@ -99,20 +144,30 @@ select option{
 
 }
 
+#member1, #member2, #member3 {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#member1 p, #member2 p, #member3 p {
+	padding-top: 0.4em;
+	padding-bottom: 1em;
+}
+
 ::-webkit-input-placeholder {
    color: #12151C;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: #12151C;  
+   color: #12151C;
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: #12151C;  
+   color: #12151C;
 }
 
-:-ms-input-placeholder {  
-   color: #12151C;  
+:-ms-input-placeholder {
+   color: #12151C;
 }
 
 #join {
@@ -163,6 +218,16 @@ select option{
 	margin: 0;
 	margin-top: 20px;
 }
+
+.spacing{
+
+    margin-bottom:50px;
+}
+
+.centered{
+    text-align: center;
+}
+
 /* End All Styles */
 
 
@@ -210,7 +275,19 @@ select option{
    .navbar-collapse {
 	   margin-top: 50px;
    }
+
+   .centerNav{
+       margin:auto;
+       display:inline-block;
+   }
 }
+.nav li:hover{
+
+    background-color: #29ABE2;
+}
+
+
+
 /* End Header Styles */
 
 
@@ -268,6 +345,7 @@ select option{
 }
 .staff-info{
 	padding-right: 150px;
+    font-size:14px;
 }
 .staff-name{
 	text-align: left;
@@ -292,6 +370,15 @@ select option{
 	line-height: 38px;
 	margin: 30px 0;
 }
+.contactText{
+
+    font-size:14px;
+    color:#000000;
+}
+#contactForm{
+    text-align:center;
+}
+
 #contact-email:before{
 	content: "";
 	background: url(../images/icons/email.png) no-repeat;
@@ -522,6 +609,13 @@ select option{
 
 /*take action styles*/
 
+#action h1 {
+	font-size: 3em;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #todo img {
 	display: inline-block;
 	width:300px;
@@ -530,5 +624,26 @@ select option{
 
 #todo {
 	display: inline-block;
+	margin-left: 3em;
+}
+
+#todo figure {
+	display: inline-block;
+	padding-bottom: 2em;
+	text-align: center;
 }
 /* End Footer Styles*/
+
+/*founder styles*/
+
+#maris {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bio {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2em;
+}

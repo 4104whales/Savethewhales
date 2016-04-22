@@ -9,56 +9,96 @@
 	<?php
 		include "includes/header.php";
     ?>
-  
+
   <div class="row">
-    <section class="col-xs-12">
-          <h2>
+
+        <div class="col-md-12">
+          <h1>
               Take Action
-          </h2>
-          <div id="todo">
-            <figure>
-              <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-            </figure>
+          </h1>
+      </div>
 
+          <div id="todo" class="row centered">
+            <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Don’t release balloons </p>
             </figure>
-            <figure>
-              <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
-            </figure>
+          </div>
 
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Volunteer </p>
             </figure>
+          </div>
 
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Participate in Save The Whales’ Petitions </p>
             </figure>
+          </div>
 
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. </p>
+              <p>Cut up plastic six-pack rings </p>
             </figure>
+          </div>
 
+
+          <div class="col-md-4">
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Pick up trash</p>
+            </figure>
+          </div>
+
+          <div class="col-md-4">
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Keep your car well maintained </p>
+            </figure>
+          </div>
+
+          <div class="col-md-4">
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Never discard used fishing line and hooks </p>
+            </figure>
+          </div>
+
+          <div class="col-md-4">
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Never Dump </p>
+            </figure>
+          </div>
+
+          <div class="col-md-4">
+            <figure>
+              <h3></h3>
+              <img src="images/Carousel_Placeholder.png" alt="">
+              <p>Recycle, Reuse and Reduce.</p>
+            </figure>
+          </div>
 
           </div>
-      </section>
+
   </div>
-  
+
   </div>
   </div>
-  
+
   <?php
       include "includes/footer.php";
   ?>

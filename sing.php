@@ -21,14 +21,13 @@
       
       <div class="row">
           <section class="col-md-4 sing-img">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/sing.jpg" alt="">
           </section>
           <section class="col-md-6 staff-info">
               <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet. Quisque laoreet sem sit amet orci ullamcorper at ultricies metus viverra.
-                    <br>
-                    <br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. 
+                    We invite schools, ecology clubs, church groups, organizations and individuals to participate in our annual Sing to Save The Whales Day held each year in May. Seven years ago Joan Cobb-a songwriter and music teach-wrote “Save The Whales” for the Save The Whales website. That song inspired worldwide requests for the song and the creation of a CD entitled “Songs to Heal the Planet, Children Singing to Save the Earth”. Please sing along with us! We strive to have participation from around the world.
+
+
               </p>
           </section>
       </div>
@@ -48,7 +47,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulpu
               	Lyrics:
               </h4>
               <p>
-				Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id. Sed rhoncus, tortor sed eleifend tristique, tortor mauris molestie elit, et lacinia ipsum quam nec dui. Quisque nec mauris sit amet elit iaculis pretium sit amet quis magna. Aenean velit odio, elementum in tempus ut, vehicula eu diam. Pellentesque rhoncus aliquam mattis. Ut vulputate eros sed felis sodales nec vulputate justo hendrerit. Vivamus varius pretium ligula, a aliquam odio euismod sit amet.
+				      Come help us Save The Whales before they disappear! They sing us songs of peach and harmony, They show us how to live with others far and near; They teach us trust and generosity. They never fight each other, they are sister/brother, and their songs of love can put an end to hate. We want to SAVE THE WHALEs, come us SAVE THE WHALES, for pretty soon it may to late. 
+
+(We need to stop) the sonar war technology; It blasts their ear-drums and their pain is great! We ned to stop polluting with the chemicals, balloons and plastic bags that suffocate! There’s no more room to bread with oil drilling greed destroying vital feeding grounds off shore! We want to Save The Whales, come help us Save The Whales, so we can put an end to war!
+
+(We ask the) presidents and other heads of state, and the United Nations everywhere, to create laws protecting all of ocean life, and to enforce these laws with loving care. We ask the people of the world to stop polluting: Turn your lives around and start a new! We want to Save The Whales, come help us Save The Whales, and we will save our planet (too.)
+            <br><br><br>
+
               </p>
           </section>
       </div>

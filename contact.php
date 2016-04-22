@@ -16,14 +16,14 @@
   <div class="row spacing">
 
     <section class="col-md-4 col-md-offset-4">
-        <h1 class="page-title">
+        <h1 id="contact" class="page-title">
            Contact Us
         </h1>
           <form class="pure-form pure-form-stacked">
               <fieldset>
-                  <input class="pure-input-1" id="contact-name" type="text" placeholder="Name">
-                  <input class="pure-input-1" id="contact-email" type="email" placeholder="Email">
-                  <textarea class="pure-input-1" id="contact-message" placeholder="Your Message"></textarea>
+                  <input class="pure-input-1" id="contact-name" type="text" placeholder="Name"><br>
+                  <input class="pure-input-1" id="contact-email" type="email" placeholder="Email"><br>
+                  <textarea class="pure-input-1" id="contact-message" placeholder="Your Message"></textarea><br><br>
                   <button type="submit" class="pure-button pure-button-primary">Submit</button>
               </fieldset>
           </form>

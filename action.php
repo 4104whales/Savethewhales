@@ -22,7 +22,7 @@
             <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/balloons.png" alt="">
               <p>Don’t release balloons </p>
             </figure>
           </div>
@@ -46,7 +46,7 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/cut_six_pack_rings.jpg" alt="">
               <p>Cut up plastic six-pack rings </p>
             </figure>
           </div>
@@ -79,7 +79,7 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/aerial_art_final.jpg" alt="">
               <p>Never Dump </p>
             </figure>
           </div>
@@ -87,7 +87,7 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/recycle.png" alt="">
               <p>Recycle, Reuse and Reduce.</p>
             </figure>
           </div>

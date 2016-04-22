@@ -26,33 +26,31 @@
         <div class="row">
           <section class="col-md-4 page-mid-title">
               <h1>
-                  Past Involvement<br><br>
+                  What does Save the Whales do?<br><br>
               </h1>
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 mission-img">
-              <img src="images/Carousel_Placeholder.png" alt="">
-          </section>
+       
           <section class="col-md-8 staff-info">
               <h2 class="staff-name">
                   Save The Whales Prevents Navy “Ship Shock” Tests and Save 10,000 Marine Mammals
               </h2>
               <p>
                 In an unprecedented victory, Save The Whales attorney and scientific experts stopped the U.S. Navy from detonating 269 “Ship Shock” explosives in waters off of Southern California. Countless Marine mammals were saved from death and injury including endangered whales, dolphins, and seals.
+                (See article <a href="http://articles.latimes.com/1994-06-10/local/me-2545_1_marine-mammals">here</a>.)
               </p>
           </section>
         </div>
         <div class="row">
-          <section class="col-md-4 mission-img">
-              <img src="images/Carousel_Placeholder.png" alt="">
-          </section>
+         
           <section class="col-md-8 staff-info">
               <h2 class="staff-name">
                    Save the Whales Stops Salt Mining Operation
               </h2>
               <p>
               Save the Whales, in conjunction with Mexican and U.S. environmental groups, worked relentlessly to halt Mitsubishi’s plan to expand salt mining operations into fragile San Ignacio Lagoon, Baja California – the last underdeveloped gray whale birthing lagoon in the world.
+              
               </p>
           </section>
         </div>

@@ -12,14 +12,16 @@
     ?>
     
   <div class="row">
-    <section class="col-md-12 page-title">
+    <section class="col-md-12 page-title" id="maris">
         <h1>
             About the Founder
         </h1>
-        <img class="imgleft" src="images/Carousel_Placeholder.png" alt="">
+        <img src="images/marisII.jpg" alt="" width="550" height="400">
     </section>
+  </div>
 
-    <section class="col-md-10">
+  <div class="row">
+    <section class="col-md-12" id="bio">
       <p>
           
 
@@ -38,7 +40,7 @@ What keeps me enthused is interacting with students and the thoughtful letters a
 <br><br>
 Whales Always,
 Maris Sidenstecker II
-
+<br><br><br><br>
 
         </p>
 

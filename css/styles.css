@@ -633,3 +633,17 @@ select option{
 	text-align: center;
 }
 /* End Footer Styles*/
+
+/*founder styles*/
+
+#maris {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#bio {
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 2em;
+}

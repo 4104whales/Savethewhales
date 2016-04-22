@@ -69,7 +69,7 @@
   	</div>
   
   <div class="row">
-    <section class="col-md-4 page-mid-title">
+    <section class="col-md-2 page-mid-title">
           <h2>
                Enter your email and click the Subscribe button below to learn more about Save the Whales programs, petitions, fun facts and more! 
           </h2>
@@ -78,6 +78,11 @@
                   <input class="pure-input-1" id="membership-email" type="email" placeholder="Email Address">
                   <button type="submit" class="pure-button pure-button-primary">Subscribe</button>
               </fieldset>
+          </form>
+      </section>
+       <section class="col-md-2 page-mid-title">
+          <p> Please help support our organization and bring us closer to our goal of protecting the Whales and their environment.</p>
+              <button type="button" class="pure-button pure-button-primary">Donate to Save the Whlaes Today!</button>
           </form>
       </section>
   </div>

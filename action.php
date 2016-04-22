@@ -9,14 +9,17 @@
 	<?php
 		include "includes/header.php";
     ?>
-  
+
   <div class="row">
-    <section class="col-xs-12" id="action">
+
+        <div class="col-md-12">
           <h1>
               Take Action
           </h1>
-          <div id="todo">
-            <div class="col-xs-4">
+      </div>
+
+          <div id="todo" class="row centered">
+            <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -24,7 +27,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -32,7 +35,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -40,7 +43,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -49,7 +52,7 @@
           </div>
 
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -57,7 +60,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -65,7 +68,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -73,7 +76,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -81,7 +84,7 @@
             </figure>
           </div>
 
-          <div class="col-xs-4">
+          <div class="col-md-4">
             <figure>
               <h3></h3>
               <img src="images/Carousel_Placeholder.png" alt="">
@@ -90,12 +93,12 @@
           </div>
 
           </div>
-      </section>
+
   </div>
-  
+
   </div>
   </div>
-  
+
   <?php
       include "includes/footer.php";
   ?>

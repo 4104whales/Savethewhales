@@ -1,6 +1,7 @@
 <?php
 	include "includes/head.php";
 ?>
+
 <title>Contact Us | Save the Whales</title>
 </head>
 
@@ -10,17 +11,17 @@
 	<?php
 		include "includes/header.php";
     ?>
-    <div class="row">
-        <h1 class="col-md-4 page-title">
+
+
+  <div class="row spacing">
+
+    <section class="col-md-4 col-md-offset-4">
+        <h1 class="page-title">
            Contact Us
         </h1>
-    </div>
-  
-  <div class="row">
-    <section class="col-md-4 form-center">
           <form class="pure-form pure-form-stacked">
               <fieldset>
-                  <input class="pure-input-1" id="contact-name" type="text" placeholder="Name"> 
+                  <input class="pure-input-1" id="contact-name" type="text" placeholder="Name">
                   <input class="pure-input-1" id="contact-email" type="email" placeholder="Email">
                   <textarea class="pure-input-1" id="contact-message" placeholder="Your Message"></textarea>
                   <button type="submit" class="pure-button pure-button-primary">Submit</button>
@@ -29,37 +30,38 @@
       </section>
   </div>
 
-    <div class="row">
-      <section class="col-md-6 staff-info">
+
+    <div class="row spacing">
+      <section class="col-md-5 col-md-offset-1 staff-info">
           <h2 class="staff-name">
               Other ways to contact the Save the Whales
           </h2>
-      </section>
-    </div>
-    <div class="row">
-      <section class="col-md-4 staff-info">
           <ul class="contact-info">
             <li id="contact-phone">
-            	(831) 899-9957
+            	<a href="tel:8318999957"><span class="contactText">(831)899-9957</span></a>
             </li>
             <li id="contact-mailing">
-            	1192 Waring St., Seaside, CA 93955
+            	<span class="contactText">1192 Waring St., Seaside, CA 93955</span>
             </li>
-            <h3 class="staff-name">
-             	Make an appointment at our office:
-          	</h3>
+        </ul>
+        <h2 class="staff-name">
+            Make an appointment at our office:
+        </h2>
+        <ul class="contact-info">
+
             <li id="contact-office">
-            	99 Pacific St. Suite 200D, Monterey, CA 93940
+            	<span class="contactText">99 Pacific St. Suite 200D, Monterey, CA 93940</span>
             </li>
 
           </ul>
       </section>
-      <section class="col-md-8 contact-map">
-          <img src="images/map-placeholder.png" alt="">
+      <section class="col-md-6 contact-map">
+          <iframe width="600" height="450" frameborder="0" style="border:0"
+            src="https://www.google.com/maps/embed/v1/place?q=ucf&key=AIzaSyDKeT9Mt48mPHCH4ivua0Ii5pMBPgxAwZ8" allowfullscreen></iframe>
       </section>
     </div>
 </div>
-  
+
   <?php
       include "includes/footer.php";
   ?>

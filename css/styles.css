@@ -55,8 +55,7 @@ h4{
 p{
 	font-size: 1.5em;
 	font-family: 'jauria', sans-serif;
-	padding-top: 1.3em;
-	padding-bottom: 1.3em; 
+	padding-top: 0; 
 }
 
 
@@ -127,6 +126,16 @@ select option{
 	margin-bottom: 1em;
 	margin-top: 1em;
 
+}
+
+#member1, #member2, #member3 {
+	padding-top: 1em;
+	padding-bottom: 1em;
+}
+
+#member1 p, #member2 p, #member3 p {
+	padding-top: 0.4em;
+	padding-bottom: 1em;
 }
 
 ::-webkit-input-placeholder {
@@ -552,6 +561,13 @@ select option{
 
 /*take action styles*/
 
+#action h1 {
+	font-size: 3em;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
 #todo img {
 	display: inline-block;
 	width:300px;
@@ -560,5 +576,14 @@ select option{
 
 #todo {
 	display: inline-block;
+	margin-left: 3em;
+}
+
+#todo figure {
+	display: inline-block;
+	padding-bottom: 2em;
+	text-align: center;
 }
 /* End Footer Styles*/
+
+

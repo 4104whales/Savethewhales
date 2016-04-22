@@ -16,25 +16,17 @@
               <h1>
                   Our Mission
               </h1>
-              <h2>
+              <h4>
                   Our mission is to educate children and adults about marine mammals, their environment and their preservation.
-              </h2>
+              </h4>
           </section>
         </div>
         
-        <div class="row">
-          <section class="col-md-offset-2 col-md-4 mission">
-              <img src="images/Carousel_Placeholder.png" alt="">
-          </section>
-          <section class="col-md-4 mission">
-              <img src="images/Carousel_Placeholder.png" alt="">
-          </section>
-        </div>
-        
+      
         <div class="row">
           <section class="col-md-4 page-mid-title">
               <h1>
-                  Past Involvement
+                  Past Involvement<br><br>
               </h1>
           </section>
         </div>

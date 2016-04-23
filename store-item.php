@@ -22,13 +22,52 @@
         </section>
     </div>
         
+		<?php
+             if (isset($_GET["itemName"]) && !empty($_GET["itemName"])) {
+                 $selected_item = $_GET['itemName'];
+             }else{  
+                 $selected_item = 'No item selected';
+             }
+			 
+			switch ($selected_item) {
+			case "Turtle Earrings":
+				 $itemImg = 'images/turtleEarings.jpg';
+				break;
+			case "Save The Whales KeyChain":
+				$itemImg = 'images/STW-KeyChain_1.gif';
+				break;
+			case "Whale Tail Necklace":
+				$itemImg = 'images/whaleTailpsd.jpg';
+				break;
+			case "Splash!":
+				$itemImg = 'images/Splash.jpg';
+				break;
+			case "Sea Turtle Plushie":
+				$itemImg = 'images/SASeaTurtle_1.jpg';
+				break;		
+			case "Dolphin Charm Bracelet":
+				$itemImg = 'images/netbracelet.jpg';
+				break;
+			case "Dolphin Plushie":
+				$itemImg = 'images/SADolphin.jpg';
+				break;
+			case "Polar Bear Plushie":
+				$itemImg = 'images/SAPolarBear.jpg';
+				break;
+			case "Sea Lion Plushie":
+				$itemImg = 'images/SASeaLion.jpg';
+				break;
+			default:
+				echo "Your favorite color is neither red, blue, nor green!";
+		}
+        ?>
         <div class="row items">
-           <img src="images/turtleEarings.jpg" alt="" class="col-md-4 col-md-offset-1 itemImg">
+           <img src="<?php echo $itemImg ?>" alt="" class="col-md-4 col-md-offset-1 itemImg">
            <section class="col-md-6 item-info">
               <h2>
-                 <a href="#">
-                     Item Name
-                 </a>
+                 	<?php
+                 		echo $selected_item;
+					?>
               </h2>
               <div class="rating">
                   <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>

@@ -24,121 +24,129 @@
         
         <div class="row store-items">
           <section class="col-md-4">
-              <a href="#"><img src="images/turtleEarings.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Turtle Earrings
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+          	<form action="store-item.php" method="GET">
+               <button name="itemName" value="Turtle Earrings">
+                  <img src="images/turtleEarings.jpg" alt="Turtle Earrings">
+                  <h3>
+                        Turtle Earrings
+                  </h3>
+                  <h4>
+                      $24.00
+                  </h4>
+              </button>
+            </form>
           </section>
           <section class="col-md-4">
-              <a href="#"><img src="images/STW-KeyChain_1.gif" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Official Save the Whales Keychain
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+          	<form action="store-item.php" method="GET">
+               <button name="itemName" value="Save The Whales KeyChain">
+                  <img src="images/STW-KeyChain_1.gif" alt="">
+                  <h3>
+                     Official Save the Whales Keychain
+                  </h3>
+                  <h4>
+                      $24.00
+                  </h4>
+              </button>
+            </form>
           </section>
           <section class="col-md-4">
-              <a href="#"><img src="images/whaleTailpsd.jpg" alt=""></a>
-              <h3><a href="#">
-                 Whale Tail Necklace
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value="Whale Tail Necklace">
+                       <img src="images/whaleTailpsd.jpg" alt="">
+                      <h3>
+                         Whale Tail Necklace
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
         </div>
         
         <div class="row store-items">
           <section class="col-md-4">
-              <a href="#"><img src="images/Splash.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Splash! 
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value=" Splash!">
+                       <img src="images/Splash.jpg" alt="">
+                      <h3>
+                         Splash! 
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
           <section class="col-md-4">
-              <a href="#"><img src="images/SASeaTurtle_1.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Sea Turtle Plushie
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value="Sea Turtle Plushie">
+                   <img src="images/SASeaTurtle_1.jpg" alt="">
+                      <h3>
+                         Sea Turtle Plushie
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
           <section class="col-md-4">
-              <a href="#"><img src="images/netbracelet.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Dolphin Charm Bracelet
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value="Dolphin Charm Bracelet">
+                   <img src="images/netbracelet.jpg" alt="">
+                      <h3>
+                         Dolphin Charm Bracelet
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
         </div>
         
   <div class="row store-items">
           <section class="col-md-4">
-              <a href="#"><img src="images/SADolphin.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Dolphin Plushie
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value="Dolphin Plushie">
+                   <img src="images/SADolphin.jpg" alt="">
+                      <h3>
+                         Dolphin Plushie
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
           <section class="col-md-4">
-              <a href="#"><img src="images/SAPolarBear.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Polar Bear Plushie
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value="Polar Bear Plushie">
+                   <img src="images/SAPolarBear.jpg" alt="">
+                      <h3>
+                         Polar Bear Plushie
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
           <section class="col-md-4">
-              <a href="#"><img src="images/SASeaLion.jpg" alt=""></a>
-              <h3>
-                 <a href="#">
-                 Sea Lion Plushie
-               </a>
-              </h3>
-              <h4>
-                  $24.00
-              </h4>
+              <form action="store-item.php" method="GET">
+                   <button name="itemName" value="Sea Lion Plushie">
+                   <img src="images/SASeaLion.jpg" alt="">
+                      <h3>
+                         Sea Lion Plushie
+                      </h3>
+                      <h4>
+                          $24.00
+                      </h4>
+                  </button>
+              </form>
           </section>
         </div>
-        
-        <nav class="col-md-4 column-center">
-            <!-- Add class .pagination-lg for larger blocks or .pagination-sm for smaller blocks-->
-            <ul class="pagination">
-              <li><a href="#" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a></li>
-              <li><a href="store.php">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li><a href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
-            </ul>
-        </nav>
 </div>
   
   <?php

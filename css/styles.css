@@ -607,13 +607,22 @@ select option{
 .store-items{
 	margin-bottom: 30px;
 }
+.store-items button{
+	padding: 0;
+	margin: 0;
+	background: none;
+	border: none;
+	color: inherit;
+	font-size: inherit;
+	font: inherit;
+	width: 100%;
+}
 .store-items img{
 	max-width: 600px;
 	width: 100%;
 }
 .store-items h3{
 	padding: 0;
-	margin-top: 10px;
 	float: left;
 }
 .store-items h4{
@@ -621,6 +630,80 @@ select option{
 	margin-right: 5px;
 }
 /* End Store Styles*/
+
+/* Start Store item Styles*/
+.items{
+	margin-bottom: 30px;
+}
+.itemImg{
+	max-width: 600px;
+	width: 100%;
+}
+.item-info{
+	margin-bottom: 20px;
+}
+.item-info h2{
+	padding: 0;
+	margin-top: 0;
+	float: left;
+	font-size: 4em;
+}
+.rating{
+	float: left;
+	clear: both;
+	unicode-bidi: bidi-override;
+  	direction: rtl;
+}
+.rating > span {
+  display: inline-block;
+  position: relative;
+  font-size: 2em;
+}
+.rating > span:hover:before,
+.rating > span:hover ~ span:before {
+   content: "\2605";
+   position: absolute;
+}
+.price, .item-info h4{
+	float: left;
+	clear: both;
+	font-size: 2.5em;
+	padding: 0;
+	margin-top: 20px;
+	line-height: 2em;
+}
+.add-cart{
+	float: left;
+	font-size: 1.7em;
+	padding: 0;
+	margin-top: 20px;
+	margin-left: 20px;
+}
+.cart-button{
+	float: left;
+	font-size: 1.7em;
+	padding: 0;
+	margin-top: 20px;
+	margin-left: 20px;
+	line-height: 2em;
+}
+.item-desc{
+	float: left;
+}
+.item-desc h3{
+	float: left;
+	clear: both;
+	font-size: 2.5em;
+	padding: 0;
+}
+.item-desc p{
+	float: left;
+	clear: both;
+	font-size: 1.5em;
+	padding: 0;
+	line-height: 1.7em;
+}
+/* End Store item Styles*/
 
 /* Start Footer Styles*/
 .footer{

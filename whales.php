@@ -41,6 +41,7 @@
                                 “Cetaceans” is a collective term that includes the aquatic mammals, whales, dolphins
                                 and porpoises. There are two types of cetaceans: those with teeth and those with
                                 baleen. The order Cetaceans is divided is into three subgroups which are as follow:
+                            </p>
                                 <ol>
                                 	<li>
                                     	Odontaceti or “toothed whales,” including 65 or more living species of dolphins,
@@ -65,11 +66,11 @@
                                         The Archaeoceti or “ancient whales” who are extinct.
                                     </li>
                                 </ol>
-                            </p>
                             <h3 class="accH3">
                                 ODONTOCETES (toothed) and MYSTICETES (baleen) Whales DIFFER IN SOME OF THE FOLLOWING WAYS:
                             </h3>
                             <p class="accSub">
+                            </p>
                             	<ol>
                            			<li>
                                     	Toothed whales feed largely on fish and squid, while baleen whales feed on
@@ -83,7 +84,6 @@
                                     	pleats to allow throat expansion (like an accordion) when feeding.
                                     </li>
                                 </ol>
-                            </p>
                             <h3 class="accH3">
                                 SPECIFIC CHARACTERISTICS OF CETACEANS
                             </h3>
@@ -321,7 +321,6 @@
                                      activities constitutes harassment and is against the law.
                                 </li>
                             </ol>
-                            </p>
                         </section>
                       </div>
                     </div>

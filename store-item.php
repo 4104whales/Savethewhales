@@ -16,23 +16,22 @@
                 <h1>
                      Save the Whales Store
                 </h1>
-                <h3>
+                <p>
                      Proceeds from sale of merchandise will go to funding our Save the Whales education programs.
-                </h3>
+                </p>
         </section>
     </div>
         
-        <div class="pure-g">
-           <img src="images/turtleEarings.jpg" alt="" class="pure-u-sm-1-2 pure-img">
-           <section class="pure-u-sm-2">
-              <h3>
+        <div class="row items">
+           <img src="images/turtleEarings.jpg" alt="" class="col-md-4 col-md-offset-1 itemImg">
+           <section class="col-md-6 item-info">
+              <h2>
                  <a href="#">
-                 Item Name
-               </a>
-              </h3>
+                     Item Name
+                 </a>
+              </h2>
               <div class="rating">
-                  Stars
-                  <a href="">View Ratings</a>
+                  <span>☆</span><span>☆</span><span>☆</span><span>☆</span><span>☆</span>
               </div>
               <h4 class="price">
                   $24.00
@@ -41,13 +40,17 @@
               		Qty:
                   <select>
                   	<option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
                   </select>
-                  <button class="cart-button">
-                  	Add to cart
-                  </button>
               </div>
+              <button class="cart-button">
+                Add to cart
+              </button>
           </section>
-          <section class="col-md-4">
+          <section class="col-md-6 item-desc">
               <h3>
                  Item Description
               </h3>

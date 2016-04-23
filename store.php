@@ -30,9 +30,6 @@
                   <h3>
                         Turtle Earrings
                   </h3>
-                  <h4>
-                      $24.00
-                  </h4>
               </button>
             </form>
           </section>
@@ -43,9 +40,6 @@
                   <h3>
                      Official Save the Whales Keychain
                   </h3>
-                  <h4>
-                      $24.00
-                  </h4>
               </button>
             </form>
           </section>
@@ -56,9 +50,6 @@
                       <h3>
                          Whale Tail Necklace
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>
@@ -72,9 +63,6 @@
                       <h3>
                          Splash! 
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>
@@ -85,9 +73,6 @@
                       <h3>
                          Sea Turtle Plushie
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>
@@ -98,9 +83,6 @@
                       <h3>
                          Dolphin Charm Bracelet
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>
@@ -114,9 +96,6 @@
                       <h3>
                          Dolphin Plushie
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>
@@ -127,9 +106,6 @@
                       <h3>
                          Polar Bear Plushie
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>
@@ -140,9 +116,6 @@
                       <h3>
                          Sea Lion Plushie
                       </h3>
-                      <h4>
-                          $24.00
-                      </h4>
                   </button>
               </form>
           </section>

@@ -12,7 +12,7 @@
       ?>
     
     <div class="row">
-      <section class="col-md-4 page-title">
+      <section class="col-md-12 page-title">
           <h1>
               Our Staff
           </h1>
@@ -20,7 +20,7 @@
     </div>
     <div class="row">
       <section class="col-md-4 col-md-offset-1">
-          <img src="images/Staff-Maris1_sm.jpg" alt="">
+          <img src="images/Staff-Maris1_sm.jpg" alt="" width="225" height="150">
       </section>
       <section class="col-md-7 staff-info">
           <h2 class="staff-name">
@@ -51,7 +51,7 @@
     </div>
     <div class="row">
       <section class="col-md-4 col-md-offset-1">
-          <img src="images/Staff-Tom_sm.jpg" alt="">
+          <img src="images/Staff-Tom_sm.jpg" alt="" width="225" height="150">
       </section>
       <section class="col-md-7 staff-info">
           <h2 class="staff-name">
@@ -66,7 +66,7 @@
     </div>
     <div class="row">
       <section class="col-md-4 col-md-offset-1">
-          <img src="images/Staff-Cheryl_sm.jpg" alt="">
+          <img src="images/Staff-Cheryl_sm.jpg" alt="" width="150" height="225">
       </section>
       <section class="col-md-7 staff-info">
           <h2 class="staff-name">
@@ -83,7 +83,7 @@
 
 <div class="row">
       <section class="col-md-4 col-md-offset-1">
-          <img src="images/Staff-Ray_sm.jpg" alt="">
+          <img src="images/Staff-Ray_sm.jpg" alt="" width="150" height="225">
       </section>
       <section class="col-md-7 staff-info">
           <h2 class="staff-name">
@@ -98,7 +98,7 @@
     </div>
     <div class="row">
       <section class="col-md-4 col-md-offset-1">
-          <img src="images/Staff-Erin_sm.jpg" alt="">
+          <img src="images/Staff-Erin_sm.jpg" alt="" width="150" height="225">
       </section>
       <section class="col-md-7 staff-info">
           <h2 class="staff-name">

@@ -17,7 +17,7 @@
                      Our Store
                 </h1>
                 <h3>
-                     Proceeds from sale of merchandise will go to funding our Save the Whales education programs. 
+                     Proceeds from sale of merchandise will go to funding<br> our Save the Whales education programs. 
                 </h3>
         </section>
   </div>
@@ -27,7 +27,7 @@
               <a href="#"><img src="images/turtleEarings.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Turtle Earrings
                </a>
               </h3>
               <h4>
@@ -38,7 +38,7 @@
               <a href="#"><img src="images/STW-KeyChain_1.gif" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Official Save the Whales Keychain
                </a>
               </h3>
               <h4>
@@ -48,7 +48,7 @@
           <section class="col-md-4">
               <a href="#"><img src="images/whaleTailpsd.jpg" alt=""></a>
               <h3><a href="#">
-                 Item Name
+                 Whale Tail Necklace
                </a>
               </h3>
               <h4>
@@ -62,7 +62,7 @@
               <a href="#"><img src="images/Splash.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Splash! 
                </a>
               </h3>
               <h4>
@@ -73,7 +73,7 @@
               <a href="#"><img src="images/SASeaTurtle_1.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Sea Turtle Plushie
                </a>
               </h3>
               <h4>
@@ -84,7 +84,7 @@
               <a href="#"><img src="images/netbracelet.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Dolphin Charm Bracelet
                </a>
               </h3>
               <h4>
@@ -98,7 +98,7 @@
               <a href="#"><img src="images/SADolphin.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Dolphin Plushie
                </a>
               </h3>
               <h4>
@@ -109,7 +109,7 @@
               <a href="#"><img src="images/SAPolarBear.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Polar Bear Plushie
                </a>
               </h3>
               <h4>
@@ -120,7 +120,7 @@
               <a href="#"><img src="images/SASeaLion.jpg" alt=""></a>
               <h3>
                  <a href="#">
-                 Item Name
+                 Sea Lion Plushie
                </a>
               </h3>
               <h4>

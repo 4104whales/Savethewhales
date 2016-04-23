@@ -26,7 +26,7 @@
           <section class="col-md-4 new_stories" id="member1">
               <img src="images/whaleplush.png" alt="" height="300" width="500">
               <h1>
-                  Child
+                  Child ($30)
               </h1>
               <p>
                   Your child would love this amazing whale plush toy when you sign up him or her to be a Save The Whale member.
@@ -35,7 +35,7 @@
           <section class="col-md-4 new_stories" id="member2">
               <img src="images/svw_tote.png" alt="" height="300" width="300">
               <h1>
-                  Regular
+                  Regular ($40)
               </h1>
               <p>
                   When you sign up to be a regular member of Save The Whales you receive a tote bag with our logo on it.
@@ -44,7 +44,7 @@
           <section class="col-md-4 new_stories" id="member3">
               <img src="images/SVWmug.png" alt="" height="300" width="500">
               <h1>
-                  Student/Senior
+                  Student/Senior ($35)
               </h1>
               <p>
                   If you’re a student or a senior you get our specialty discount rate and a lovely coffee mug with our logo on it when you become a member of Save The Whales.
@@ -58,9 +58,9 @@
 
                           <select id="membership-type" class="pure-input-1">
                               <option disabled selected>Membership Type</option>
-                              <option>Child</option>
-                              <option>Regular</option>
-                              <option>Student/Senior</option>
+                              <option>Child ($30)</option>
+                              <option>Regular ($40)</option>
+                              <option>Student/Senior ($35)</option>
                           </select>
 
                       <input class="pure-input-1" id="membership-name" type="text" placeholder="Full Name">

@@ -23,7 +23,7 @@
               <fieldset>
                   <input class="pure-input-1" id="contact-name" type="text" placeholder="Name"><br>
                   <input class="pure-input-1" id="contact-email" type="email" placeholder="Email"><br>
-                  <textarea class="pure-input-1" id="contact-message" placeholder="Your Message"></textarea><br><br>
+                  <textarea class="pure-input-1" id="contact-message" placeholder="Your Message" rows="4" cols="100"></textarea><br><br>
                   <button type="submit" class="pure-button pure-button-primary">Submit</button>
               </fieldset>
           </form>
@@ -34,7 +34,7 @@
     <div class="row spacing">
       <section class="col-md-5 col-md-offset-1 staff-info">
           <h2 class="staff-name">
-              Other ways to contact the Save the Whales
+              Our Contact Information:
           </h2>
           <ul class="contact-info">
             <li id="contact-phone">

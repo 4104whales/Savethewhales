@@ -150,6 +150,7 @@ select option{
 #member1, #member2, #member3 {
 	padding-top: 1em;
 	padding-bottom: 1em;
+	text-align: center;
 }
 
 #member1 p, #member2 p, #member3 p {
@@ -540,6 +541,13 @@ select option{
 	width: 100%;
 	float: right;
 	margin-bottom: 30px;
+}
+
+#center {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1em;
 }
 /* End Mission Styles*/
 

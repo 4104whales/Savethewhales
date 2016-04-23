@@ -292,6 +292,14 @@ select option{
 
 
 /* Start Home Styles */
+
+#donate {
+	width:400px;
+}
+
+#savewhales {
+	display: inline-block;
+}
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
 	margin: auto;
@@ -362,6 +370,10 @@ select option{
 /* End Staff Styles */
 
 /* Start contact Styles*/
+#contact {
+	font-size: 3em;
+}
+
 .contact-info{
 	list-style: none;
 }

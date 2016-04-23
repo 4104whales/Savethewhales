@@ -24,7 +24,7 @@
         </div>
         <div class="row">
           <section class="col-md-4 new_stories" id="member1">
-              <img src="images/SABlueWhale.jpg" alt="" height="300" width="500">
+              <img src="images/whaleplush.png" alt="" height="300" width="500">
               <h1>
                   Child
               </h1>
@@ -33,7 +33,7 @@
               </p>
           </section>
           <section class="col-md-4 new_stories" id="member2">
-              <img src="images/svw_tote.png" alt="" height="400" width="300">
+              <img src="images/svw_tote.png" alt="" height="300" width="300">
               <h1>
                   Regular
               </h1>

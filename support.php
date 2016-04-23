@@ -16,15 +16,15 @@
               <h1>
                   Support Our Cause
               </h1>
-              <h2>
+              <h3>
 				You can support our cause by doing one of the  the following:
-              </h2>
+              </h3>
           </section>
       </div>
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/money.png" alt="">
           </section>
           <section class="col-md-6">
               <h3>
@@ -33,13 +33,13 @@
               <p>
                   When you donate to Save The Whales you are helping our organization educate children and adults about marine mammals, their environment and their preservation. To date, Save The Whales has educated over 277,000 students. Your contribution to Save The Whales is tax-deductible. Save The Whales is a California 501(c)(3) Nonprofit Public Benefit Corporation.
               </p>
-              <button type="button" class="pure-button pure-button-primary">Donate to Save the Whlaes Today!</button>
+              <button type="button" id="donate" class="pure-button pure-button-primary">Donate to Save the Whales Today!</button>
           </section>
       </div>
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/hands.png" alt="">
           </section>
           <section class="col-md-6">
               <h3>
@@ -53,7 +53,7 @@
       
       <div class="row flyer-info">
           <section class="col-md-offset-2 col-md-2">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/gesture.png" alt="">
           </section>
           <section class="col-md-6">
               <h3>

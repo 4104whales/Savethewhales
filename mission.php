@@ -24,7 +24,7 @@
         
       
         <div class="row">
-          <section class="col-md-4 page-mid-title">
+          <section class="col-md-12 page-mid-title">
               <h1>
                   What does Save the Whales do?<br><br>
               </h1>
@@ -50,7 +50,7 @@
               </h2>
               <p>
               Save the Whales, in conjunction with Mexican and U.S. environmental groups, worked relentlessly to halt Mitsubishi’s plan to expand salt mining operations into fragile San Ignacio Lagoon, Baja California – the last underdeveloped gray whale birthing lagoon in the world.
-              
+
               </p>
           </section>
         </div>

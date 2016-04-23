@@ -793,3 +793,7 @@ select option{
 	margin-left: auto;
 	padding: 2em;
 }
+#frame {
+	
+	border:0;
+}

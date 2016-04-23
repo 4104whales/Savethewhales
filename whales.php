@@ -23,7 +23,7 @@
             <div class="panel-group " id="accordion1" role="tablist" aria-multiselectable="true">
                   <div class="panel panel-default">
                     <div class="panel-heading" role="tab">
-                      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">Cetacens</a></h4>
+                      <h4 class="panel-title"><a data-toggle="collapse" data-parent="#accordion1" href="#collapseOne1">Cetaceans</a></h4>
                     </div>
                     <div id="collapseOne1" class="panel-collapse collapse in">
                       <div class="panel-body">

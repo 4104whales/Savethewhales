@@ -32,7 +32,7 @@
         </div>
         <div class="row">
        
-          <section class="col-md-12 staff-info" id="center">
+          <section class="col-md-12 staff-info">
               <h2 class="staff-name">
                   Save The Whales Prevents Navy “Ship Shock” Tests and Save 10,000 Marine Mammals
               </h2>

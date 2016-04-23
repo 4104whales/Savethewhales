@@ -84,7 +84,7 @@
           <section class="col-md-2 page-mid-title">
           <h2> Please help support our organization and bring us closer to our goal of protecting the Whales and their environment.</h2>
               <button type="button" id="donate" class="pure-button pure-button-primary">Donate to Save the Whales Today!</button>
-          </form>
+         
       </section>
       </section>
        

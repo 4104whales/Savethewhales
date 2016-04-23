@@ -506,23 +506,27 @@ select option{
 /*End Flyer Styles*/
 
 /* Start Petitions Styles*/
-.petitions-video{
+.petitions section{
+	height: 400px;
 }
-.petitions-video video{
+.petitions img{
 	float: left;
+	max-width: 600px;
+	width: 50%;
+	margin: 15px;
 }
-.petitions-video h3{
-	float: left;
+.petitions h3{
 	margin-top: 0;
+	padding-top: 10px;
 }
-.petitions-video button{
-	float: left;
-	margin-left: 35px;
+.petitions button{
+	width: 200px;
 }
-.petitions-video p{
-	float: left;
+.petitions p{
 	clear: both;
-	margin-top: 20px;
+	margin: 15px;
+	font-size: 1.7em;
+	font-family: 'jauria', sans-serif;
 }
 /* End Petitions Styles*/
 

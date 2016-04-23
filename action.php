@@ -12,7 +12,7 @@
 
   <div class="row">
 
-        <div class="col-md-12">
+        <div class="col-md-12 page-title">
           <h1>
               Take Action
           </h1>

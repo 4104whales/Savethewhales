@@ -24,7 +24,7 @@
         
       
         <div class="row">
-          <section class="col-md-12 page-mid-title">
+          <section class="col-md-12 page-title">
               <h1>
                   What does Save the Whales do?<br><br>
               </h1>
@@ -32,7 +32,7 @@
         </div>
         <div class="row">
        
-          <section class="col-md-8 staff-info">
+          <section class="col-md-12 staff-info" id="center">
               <h2 class="staff-name">
                   Save The Whales Prevents Navy “Ship Shock” Tests and Save 10,000 Marine Mammals
               </h2>
@@ -44,7 +44,7 @@
         </div>
         <div class="row">
          
-          <section class="col-md-8 staff-info">
+          <section class="col-md-12 staff-info" id="center">
               <h2 class="staff-name">
                    Save the Whales Stops Salt Mining Operation
               </h2>
@@ -54,9 +54,11 @@
               </p>
           </section>
         </div>
+        <br><br><br>
+
         <div class="row">
           <section class="col-md-4 mission-img">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/1794685_10152540827068795_4792615336546603602_n.jpg" alt="" height="400" width="50">
           </section>
           <section class="col-md-8 staff-info">
               <h2 class="staff-name">
@@ -69,7 +71,7 @@
         </div>
         <div class="row">
           <section class="col-md-4 mission-img">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/reducerunoff.jpg" alt="">
           </section>
           <section class="col-md-8 staff-info">
               <h2 class="staff-name">
@@ -83,7 +85,7 @@
 
         <div class="row">
           <section class="col-md-4 mission-img">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/tshirts014.jpg" alt="">
           </section>
           <section class="col-md-8 staff-info">
               <h2 class="staff-name">

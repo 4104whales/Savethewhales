@@ -35,13 +35,13 @@
               </p>
           </section>
           <section class="col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/green-sea-turtle_1.jpg" alt="" width="600" height="300">
           </section>
         </div>
         
         <div class="row">
           <section class="col-md-offset-1 col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/3836.jpeg" alt="">
           </section>
           <section class="col-md-7 staff-info">
               <h2 class="staff-name">
@@ -63,13 +63,13 @@
               </p>
           </section>
           <section class="col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/communicate.gif" alt="">
           </section>
         </div>
         
         <div class="row">
           <section class="col-md-offset-1 col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/10245491_10152594326033795_1858655765638582413_n.jpg" alt="">
           </section>
           <section class="col-md-7 staff-info">
               <h2 class="staff-name">
@@ -84,7 +84,7 @@
 
         <div class="row">
           <section class="col-md-offset-1 col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/10463967_10152247293128795_2888941559552356288_n.jpg" alt="">
           </section>
           <section class="col-md-7 staff-info">
               <h2 class="staff-name">
@@ -99,7 +99,7 @@
 
         <div class="row">
           <section class="col-md-offset-1 col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/MID_232820_Paul_Nicklen_NAtional_GEographic_Stock_WWF_Canada.jpg" alt="">
           </section>
           <section class="col-md-7 staff-info">
               <h2 class="staff-name">
@@ -114,17 +114,17 @@
 
         <div class="row">
           <section class="col-md-offset-1 col-md-3 outreach">
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/otter.jpg" alt="">
           </section>
           <section class="col-md-7 staff-info">
               <h2 class="staff-name">
-                  Seat Otters: A Story of Survival
+                  Sea Otters: A Story of Survival
               </h2>
               <p>
                   Explore the natural history, ecology and survival of the California sea otters. This multimedia presentation, with hands-on stations, covers topics as diverse as feeding and keystone species, adaptations and survival, human impacts and pollution. A selected student will wear a sea otter costume to demonstrate adaptation (for lower grade levels). Learn how you can help protect sea otters from extinction! Grade 1 and Up
               </p>
 
-            <br><br>
+            <br>
             <h2>Details &amp; Fees:</h2>
             <ul>
               <li>$90 for the first class and $70 each additional class</li>

@@ -30,7 +30,7 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/rescuers.jpg" alt="">
               <p>Volunteer </p>
             </figure>
           </div>
@@ -38,7 +38,7 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/testimonials.jpg" alt="">
               <p>Participate in Save The Whales’ Petitions </p>
             </figure>
           </div>
@@ -55,7 +55,7 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
+              <img src="images/cleanbeach.jpg" alt="">
               <p>Pick up trash</p>
             </figure>
           </div>
@@ -63,16 +63,16 @@
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Keep your car well maintained </p>
+              <img src="images/oil-runoff-into-storm-drain.jpg" alt="">
+              <p>Keep your car well maintained to prevent leaks which in turn contribute to water pollution</p>
             </figure>
           </div>
 
           <div class="col-md-4">
             <figure>
               <h3></h3>
-              <img src="images/Carousel_Placeholder.png" alt="">
-              <p>Never discard used fishing line and hooks </p>
+              <img src="images/fishinglinehere.jpg" alt="">
+              <p>Never discard used fishing lines and hooks into the water. Always properly dispose of them.</p>
             </figure>
           </div>
 

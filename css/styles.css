@@ -485,6 +485,9 @@ select option{
 .flyer-info ol{
 	float: left;
 }
+.flyer-info li{
+	font-size: 1.5em;
+}
 /*End Flyer Styles*/
 
 /* Start Petitions Styles*/
@@ -539,8 +542,37 @@ select option{
 .panel-group .panel {
     background-color: #0FA6A0;
 }
-.flyer-info li{
-	font-size: 1.5em;
+.acc-info{
+	margin-bottom: 10px;
+}
+.accSub{
+	text-align: left;
+}
+.accImg img{
+	max-width: 600px;
+	width: 100%;
+	float: left;
+	margin-top: 35px;
+}
+.acc-info h3{
+	padding: 0px;
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+.acc-info p{
+	clear: left;
+	font-size: 1.7em;
+}
+.acc-info ol, .acc-info ul{
+	float: left;
+	clear: both;
+}
+.acc-info li{
+	font-size: 1.7em;
+	font-family: 'jauria', sans-serif;
+	padding-top: 0; 
+	text-align: left;
 }
 /* End Whales Styles*/
 

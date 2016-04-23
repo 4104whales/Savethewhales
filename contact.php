@@ -56,7 +56,7 @@
           </ul>
       </section>
       <section class="col-md-6 contact-map">
-          <iframe width="600" height="450" frameborder="0" style="border:0"
+          <iframe width="600" height="450" id="frame"  
             src="https://www.google.com/maps/embed/v1/place?q=ucf&key=AIzaSyDKeT9Mt48mPHCH4ivua0Ii5pMBPgxAwZ8" allowfullscreen></iframe>
       </section>
     </div>

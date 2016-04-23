@@ -32,6 +32,9 @@
 /* End Fonts */
 
 /* Start All Styles */
+.pure-g{
+	letter-spacing: 0em;
+}
 body{
 	height: 100%;
 	font-size: 10px;
@@ -683,6 +686,10 @@ select option{
 #maris {
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#maris h1 {
+	font-size: 3em;
 }
 
 #bio {

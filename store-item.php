@@ -58,7 +58,7 @@
 				$itemImg = 'images/SASeaLion.jpg';
 				break;
 			default:
-				echo "Your favorite color is neither red, blue, nor green!";
+				$itemImg = '';
 		}
         ?>
         <div class="row items">

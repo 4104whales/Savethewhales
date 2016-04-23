@@ -67,7 +67,7 @@
         <div class="row store-items">
           <section class="col-md-4">
               <form action="store-item.php" method="GET">
-                   <button name="itemName" value=" Splash!">
+                   <button name="itemName" value="Splash!">
                        <img src="images/Splash.jpg" alt="">
                       <h3>
                          Splash! 

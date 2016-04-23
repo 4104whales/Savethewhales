@@ -19,10 +19,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-md-4 staff-img">
+      <section class="col-md-4 col-md-offset-1">
           <img src="images/Staff-Maris1_sm.jpg" alt="">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Maris Sidenstecker I (M1) 
           </h2>
@@ -34,10 +34,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-md-4 staff-img">
-          <img src="images/marisII.jpg" alt="">
+      <section class="col-md-4 col-md-offset-1">
+          <img src="images/marisIIsmall.jpg" alt="">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Maris Sidenstecker II (M2) 
           </h2>
@@ -50,10 +50,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-md-4 staff-img">
+      <section class="col-md-4 col-md-offset-1">
           <img src="images/Staff-Tom_sm.jpg" alt="">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Tom Kieckhefer 
           </h2>
@@ -65,10 +65,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-md-4 staff-img">
+      <section class="col-md-4 col-md-offset-1">
           <img src="images/Staff-Cheryl_sm.jpg" alt="">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Cheryl Butner 
           </h2>
@@ -82,10 +82,10 @@
 
 
 <div class="row">
-      <section class="col-md-4 staff-img">
+      <section class="col-md-4 col-md-offset-1">
           <img src="images/Staff-Ray_sm.jpg" alt="">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Ray Villanueva 
           </h2>
@@ -97,10 +97,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-md-4 staff-img">
+      <section class="col-md-4 col-md-offset-1">
           <img src="images/Staff-Erin_sm.jpg" alt="">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Erin Ver Hage 
           </h2>
@@ -112,10 +112,10 @@
       </section>
     </div>
     <div class="row">
-      <section class="col-md-4 staff-img">
-          <img src="images/susan_robinson.png" alt="">
+      <section class="col-md-4 col-md-offset-1">
+          <img src="images/susan_robinson.png" alt="" width="163" height="250">
       </section>
-      <section class="col-md-8 staff-info">
+      <section class="col-md-7 staff-info">
           <h2 class="staff-name">
               Susan Robinson 
           </h2>
